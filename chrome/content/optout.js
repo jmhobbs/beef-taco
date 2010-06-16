@@ -1,4 +1,9 @@
 /*
+ * Beef Taco - Additions based on "Targeted Advertising Cookie Opt-Out" by Christopher Soghoian
+ * 
+ * Copyright 2010, John Hobbs
+ * http://www.velvetcache.org/
+ * 
  * Targeted Advertising Cookie Opt-Out
  * Copyright 2009, Christopher Soghoian
  * www.dubfire.net

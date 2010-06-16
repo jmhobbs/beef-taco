@@ -4,8 +4,8 @@
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
 
   <Description about="urn:mozilla:install-manifest">
-    <em:id>optout@dubfire.net</em:id>
-    <em:version>2.0</em:version>
+    <em:id>john@velvetcache.org</em:id>
+    <em:version>1.0</em:version>
     <em:type>2</em:type>
     <!-- Target Application this extension can install into,
          with minimum and maximum supported versions. -->
@@ -13,14 +13,14 @@
       <Description>
         <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
         <em:minVersion>1.5</em:minVersion>
-        <em:maxVersion>3.6a1pre</em:maxVersion>
+        <em:maxVersion>3.7</em:maxVersion>
       </Description>
     </em:targetApplication>
     <!-- Front End MetaData -->
     <em:iconURL>chrome://optout/content/taco.png</em:iconURL>
-    <em:name>Targeted Advertising Cookie Opt-Out (TACO)</em:name>
+    <em:name>Beef Taco (Targeted Advertising Cookie Opt-Out)</em:name>
     <em:description>Sets permanent opt-out cookies to stop behavioral advertising by 90 different advertising networks, including Google, Yahoo, Microsoft, all members of the Network Advertising Initiative, and many other companies.</em:description>
-    <em:creator>Christopher Soghoian</em:creator>
-    <em:homepageURL>http://taco.dubfire.net/</em:homepageURL>
+    <em:creator>Christopher Soghoian, John Hobbs</em:creator>
+    <em:homepageURL>http://jmhobbs.github.com/beef-taco</em:homepageURL>
   </Description>
 </RDF>
