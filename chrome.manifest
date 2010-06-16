@@ -1,0 +1,2 @@
+content optout  chrome/content/
+overlay chrome://browser/content/browser.xul chrome://optout/content/optout.xul
