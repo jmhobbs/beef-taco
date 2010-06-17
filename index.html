@@ -6,76 +6,135 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 
 	<title>jmhobbs/beef-taco @ GitHub</title>
-	
+
 	<style type="text/css">
 		body {
-  		margin-top: 1.0em;
-  		background-color: #ffffff;
-		  font-family: "Helvetica,Arial,FreeSans";
-  		color: #000000;
-    }
-    #container {
-      margin: 0 auto;
-      width: 700px;
-    }
+			margin-top: 1.0em;
+			background-color: #ffffff;
+			font-family: "Helvetica,Arial,FreeSans";
+			color: #000000;
+		}
+		#container {
+			margin: 0 auto;
+			width: 700px;
+		}
 		h1 { font-size: 3.8em; color: #000000; margin-bottom: 3px; }
 		h1 .small { font-size: 0.4em; }
 		h1 a { text-decoration: none }
 		h2 { font-size: 1.5em; color: #000000; }
-    h3 { text-align: center; color: #000000; }
-    a { color: #000000; }
-    .description { font-size: 1.2em; margin-bottom: 30px; margin-top: 30px; font-style: italic;}
-    .download { float: right; }
-		pre { background: #000; color: #fff; padding: 15px;}
-    hr { border: 0; width: 80%; border-bottom: 1px solid #aaa}
-    .footer { text-align:center; padding-top:30px; font-style: italic; }
+		h3 { text-align: center; color: #000000; }
+		a { color: #000000; }
+		.description { font-size: 1.2em; margin-bottom: 30px; margin-top: 30px; font-style: italic;}
+		.download { float: right; }
+		pre, blockquote { background: #000; color: #fff; padding: 15px;}
+		hr { border: 0; width: 80%; border-bottom: 1px solid #aaa}
+		.footer { text-align:center; padding-top:30px; font-style: italic; }
 	</style>
-	
+
 </head>
 
 <body>
-  <a href="http://github.com/jmhobbs/beef-taco"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" /></a>
+	<a href="http://github.com/jmhobbs/beef-taco"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub" /></a>
 
-  <div id="container">
+	<div id="container">
 
-    <div class="download">
-      <a href="http://github.com/jmhobbs/beef-taco/zipball/master">
-        <img border="0" width="90" src="http://github.com/images/modules/download/zip.png"></a>
-      <a href="http://github.com/jmhobbs/beef-taco/tarball/master">
-        <img border="0" width="90" src="http://github.com/images/modules/download/tar.png"></a>
-    </div>
+		<h1><a href="http://github.com/jmhobbs/beef-taco">Beef Taco</a>
+			<span class="small">by <a href="http://github.com/jmhobbs">jmhobbs</a></span></h1>
 
-    <h1><a href="http://github.com/jmhobbs/beef-taco">beef-taco</a>
-      <span class="small">by <a href="http://github.com/jmhobbs">jmhobbs</a></span></h1>
+		<div class="description">
+			A Firefox add-on to opt-out of ad networks.
+		</div>
 
-    <div class="description">
-      A Firefox add-on to opt-out of ad networks.
-    </div>
+		<script type="application/javascript">
+		<!--
+		function install (aEvent)
+		{
+			var params = {
+				"Beef Taco": { URL: aEvent.target.href,
+								IconURL: aEvent.target.getAttribute("iconURL"),
+								Hash: aEvent.target.getAttribute("hash"),
+								toString: function () { return this.URL; }
+				}
+			};
+			InstallTrigger.install(params);
 
-    <h2>Authors</h2>
-<p>John Hobbs (john@velvetcache.org)<br/><br/>      </p>
-<h2>Contact</h2>
-<p>John Hobbs (john@velvetcache.org)<br/>      </p>
+			return false;
+		}
+		-->
+		</script>
+
+		<p>
+			Targeted Advertising Cookie Opt-Out (TACO) is a Firefox plugin that jumped the shark. In 3.0 they introduced a ton of cruft and crap.
+		</p>
+		<p>
+			To quote a review:
+			<blockquote>
+				<p>
+				Unbelievable how this very good Add-on (TACO 2.0) could fall so deep. The new version (3.0.x) is a nightmare. It's bloated (up to 3MB), slow and has a terrible Preference-dialog (more like a christmas tree).
+				</p>
+				<p>
+				You are well-advised to avoid the new version and go back to 2.0. "Nightly Tester Tools" or/ and "MR Tech Toolkit" will help you to make it compatible. Or do it manual.
+				</p>
+				<p>
+				I'm desperately disappointed.
+				</p>
+			</blockquote>
+		</p>
+		<p>
+			Beef Taco is a fork of TACO v2.0, before the junk was added in, kept up to date with the most recent Firefox versions.
+		</p>
+
+		<h2>Install</h2>
+		<p>
+		<a href="downloads/beef-taco-1.0.xpi"
+				iconURL="http://github.com/jmhobbs/beef-taco/raw/master/firefox/chrome/content/icon.png"
+				hash="sha1:50aac9f7c712da10d2a5df9f14e1b03e04ed491e"
+				onclick="return install(event);">Click Here Install Beef Taco</a>
+		</p>
+
+		<h2>Screen Shots</h2>
+		<p style="text-align: center;">
+			<img src="images/beef-taco-1.png" alt="The Extension" /><br/>
+			<b>The Extension Installed</b>
+		</p>
+
+		<p style="text-align: center;">
+			<img src="images/beef-taco-2.png" alt="Opt Out Cookies" /><br/>
+			<b>The Proof Is In The Beef</b>
+		</p>
+
+		<h2>Authors</h2>
+		<p>
+			John Hobbs (john@velvetcache.org)
+		</p>
+
+		<h2>Contact</h2>
+		<p>
+			John Hobbs (john@velvetcache.org)
+		</p>
 
 
-    <h2>Download</h2>
-    <p>
-      You can download this project in either
-      <a href="http://github.com/jmhobbs/beef-taco/zipball/master">zip</a> or
-      <a href="http://github.com/jmhobbs/beef-taco/tarball/master">tar</a> formats.
-    </p>
-    <p>You can also clone the project with <a href="http://git-scm.com">Git</a>
-      by running:
-      <pre>$ git clone git://github.com/jmhobbs/beef-taco</pre>
-    </p>
+		<h2>Download</h2>
+		<p>
+		You can <a href="downloads/beef-taco-1.0.xpi"
+  iconURL="http://github.com/jmhobbs/beef-taco/raw/master/firefox/chrome/content/icon.png"
+  hash="sha1:50aac9f7c712da10d2a5df9f14e1b03e04ed491e"
+  onclick="return install(event);">install this exxtension</a> or download this project in either
+			<a href="http://github.com/jmhobbs/beef-taco/zipball/master">zip</a> or
+			<a href="http://github.com/jmhobbs/beef-taco/tarball/master">tar</a> formats.
+		</p>
+		<p>You can also clone the project with <a href="http://git-scm.com">Git</a>
+			by running:
+			<pre>$ git clone git://github.com/jmhobbs/beef-taco</pre>
+		</p>
 
-    <div class="footer">
-      get the source code on GitHub : <a href="http://github.com/jmhobbs/beef-taco">jmhobbs/beef-taco</a>
-    </div>
+		<div class="footer">
+			get the source code on GitHub : <a href="http://github.com/jmhobbs/beef-taco">jmhobbs/beef-taco</a>
+		</div>
 
-  </div>
+	</div>
 
-  <script type="text/javascript">
+	<script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script>
