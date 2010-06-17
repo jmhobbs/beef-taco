@@ -1,18 +1,18 @@
 var taco_opt_out_cookies = {
-    // Google/Doubleclick
+	// Google/Doubleclick
 	".doubleclick.net" : [ { path: "/", name: "id", value: "OPT_OUT" } ],
-    // Collective Media
+		// Collective Media
 	".collective-media.net" : [ { path: "/", name: "optout", value: "1" } ],
-    // acerno / Akamai
+		// acerno / Akamai
 	".imiclk.com" : [ { path: "/", name: "IMI", value: "OPT_OUT" } ],
 	// Turn
 	".turn.com" : [ { path: "/", name: "optOut", value: "1" } ],
 	// NextAction
 	".nexac.com" : [ { path: "/", name: "na_tc", value: "Y" },
-                     { path: "/", name: "na_id", value: "ignore" } ],
+									{ path: "/", name: "na_id", value: "ignore" } ],
 	// Audience Science
 	".revsci.net" : [ { path: "/", name: "NETOPTOUT", value: "true" },
-                     { path: "/", name: "NETID01", value: "optout" } ],
+										{ path: "/", name: "NETID01", value: "optout" } ],
 	// InterCLICK
 	".a1.interclick.com" : [ { path: "/", name: "Opt", value: "out" } ],
 	// Blue Lithium / Yahoo
@@ -24,14 +24,14 @@ var taco_opt_out_cookies = {
 	// Fox Audience Network
 	".fimserve.com" : [ { path: "/", name: "NAI", value: "1" } ],
 	".opt.fimserve.com" : [ { path: "/", name: "LO", value: "" },
-                     { path: "/", name: "UI", value: "|" } ],
+										{ path: "/", name: "UI", value: "|" } ],
 	// AlmondNET
 	".pro-market.net" : [ { path: "/", name: "optout", value: "0+0+0" } ],
-	// Safecount	
+	// Safecount
 	".questionmarket.com" : [ { path: "/", name: "ST", value: "OPTOUT_" } ],
 	// Tacoda
 	".tacoda.net" : [ { path: "/", name: "TID", value: "tacodaamoptout" } ],
-	// Traffic Marketplace	
+	// Traffic Marketplace
 	".trafficmp.com" : [ { path: "/", name: "naiopt", value: "out" } ],
 	// Tribal Fusion
 	".tribalfusion.com" : [ { path: "/", name: "ANON_ID", value: "OptOut" } ],
@@ -65,10 +65,10 @@ var taco_opt_out_cookies = {
 	".openx.net" : [ { path: "/", name: "i", value: "OPT+OUT" } ],
 	// PrecisionClick
 	".precisionclick.com" : [ { path: "/", name: "optout", value: "1" },
-                     { path: "/", name: "optoutad", value: "1" } ],
+										{ path: "/", name: "optoutad", value: "1" } ],
 	// Smart Adserver
 	".smartadserver.com" : [ { path: "/", name: "pid", value: "Optout" } ],
-	// Akamai / abmr.net (AOOC = Akamai Opt Out Cookie) 
+	// Akamai / abmr.net (AOOC = Akamai Opt Out Cookie)
 	".abmr.net" : [ { path: "/", name: "AOOC", value: "1" } ],
 	// Lotame  / crwdcntrl.net
 	".crwdcntrl.net" : [ { path: "/", name: "cc", value: "optout" } ],
@@ -93,13 +93,13 @@ var taco_opt_out_cookies = {
 	".adsfac.eu" : [ { path: "/", name: "OO", value: "OO=1" } ],
 	".adsfac.net" : [ { path: "/", name: "OO", value: "OO=1" } ],
 	".adsfac.sg" : [ { path: "/", name: "OO", value: "OO=1" } ],
-	// Microsoft / Live.com 
+	// Microsoft / Live.com
 	".live.com" : [ { path: "/", name: "TOptOut", value: "1" } ],
 	// Yahoo
 	".yahoo.com" : [ { path: "/", name: "AO", value: "o=1" } ],
 	// Yahoo / Right Media
 	".ad.yieldmanager.com" : [ { path: "/", name: "optout", value: "1" } ],
-	// 24/7 Real Media  
+	// 24/7 Real Media
 	".247realmedia.com" : [ { path: "/", name: "RMOPTOUT", value: "3" } ],
 	".realmedia.com" : [ { path: "/", name: "RMOPTOUT", value: "3" } ],
 	// Adbrite
@@ -199,13 +199,40 @@ var taco_opt_out_cookies = {
 	".voicefive.com" : [ { path: "/", name: "OptOut", value: "1" } ],
 	// Hurra
 	".hurra.com" : [ { path: "/", name: "__coo", value: "1" } ],
-	// Criteo	
+	// Criteo
 	".criteo.com" : [ { path: "/", name: "optout", value: "1" } ],
 	// Coremetrics
 	"data.cmcore.com" : [ { path: "/", name: "ID", value: "OPT_OUT" } ],
 	"data.coremetrics.com" : [ { path: "/", name: "ID", value: "OPT_OUT" } ],
 	// EyeWonder
 	".eyewonder.com" : [ { path: "/", name: "ew-optout", value: "1" } ],
-	
-	
+
+	/*
+		The following were added on 2010-06-17 by John Hobbs.
+		Thanks to Rob Shavell from Abine (http://getabine.com) for providing these.
+	*/
+
+	// Vibrant Media
+	".intellitxt.com" : [{ path: "/", name: "ITXTCtxtHistOff", value:"1"}],
+	// Microsoft Advertising
+	".msn.com" : [{ path: "/", name: "TOptOut", value:"1"}],
+	".bing.com" : [{path: "/", name: "TOptOut", value:"1"}],
+	// NetMining
+	".netmng.com" : [{path: "/", name: "EVO5_OPT", value: "%BC%9F%A5%AF%05%98"}],
+	// Adconion
+	".amgdgt.com" : [{path: "/", name: "OO", value: "OptOut"}],
+	// Dotomi
+	".dotomi.com" : [{path: "/", name: "DotomiStatus", value: "5"}],
+	// Opinmind
+	".yieldoptimizer.com" : [{path: "/", name: "om_optout", value: "1"}],
+	"optout.yieldoptimizer.com" : [{path: "/", name: "opinmind_persist", value:"488444680.36895.0000"}],
+	// MediaMath
+	".mathtag.com" : [{path: "/", name: "optout", value: "1"}],
+	// Permuto
+	".pulsemgr.com" : [{path: "/", name: "p", value: "OPTOUT"}],
+	// Undertone Networks
+	".ads.undertone.com" : [{path: "/", name: "UTOPTOUT", value: "OPTOUT"}],
+	// YuMe Inc.
+	".yumenetworks.com" : [{path: "/", name: "ymoo", value: "true"}]
+
 };
