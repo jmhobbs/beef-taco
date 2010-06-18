@@ -5,6 +5,7 @@ var taco_opt_out_cookies = {
 	".collective-media.net" : [ { path: "/", name: "optout", value: "1" } ],
 		// acerno / Akamai
 	".imiclk.com" : [ { path: "/", name: "IMI", value: "OPT_OUT" } ],
+	".imiclk.com" : [ { path: "/", name: "OL8U", value: "0" } ],
 	// Turn
 	".turn.com" : [ { path: "/", name: "optOut", value: "1" } ],
 	// NextAction
