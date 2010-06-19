@@ -1,6 +1,5 @@
 <?xml version="1.0"?>
 <overlay id="optout" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
-
   <script type="application/x-javascript" src="chrome://beef-taco/content/namespace.js" />
   <script type="application/x-javascript" src="chrome://beef-taco/content/cookies.js" />
   <script type="application/x-javascript" src="chrome://beef-taco/content/beef-taco.js" />

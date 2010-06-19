@@ -1,4 +1,4 @@
-com.github.jmhobbs.beef_taco.prototype.cookies = {
+com.github.jmhobbs.beef_taco.cookies = {
 	// Google/Doubleclick
 	".doubleclick.net" : [ { path: "/", name: "id", value: "OPT_OUT" } ],
 		// Collective Media
