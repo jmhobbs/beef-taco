@@ -1,4 +1,4 @@
-var taco_opt_out_cookies = {
+com.github.jmhobbs.beef_taco.prototype.cookies = {
 	// Google/Doubleclick
 	".doubleclick.net" : [ { path: "/", name: "id", value: "OPT_OUT" } ],
 		// Collective Media
@@ -212,7 +212,6 @@ var taco_opt_out_cookies = {
 		The following were added on 2010-06-17 by John Hobbs.
 		Thanks to Rob Shavell from Abine (http://getabine.com) for providing these.
 	*/
-
 	// Vibrant Media
 	".intellitxt.com" : [{ path: "/", name: "ITXTCtxtHistOff", value:"1"}],
 	// Microsoft Advertising

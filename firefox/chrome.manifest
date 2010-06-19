@@ -1,2 +1,4 @@
-content optout  chrome/content/
-overlay chrome://browser/content/browser.xul chrome://optout/content/optout.xul
+content   beef-taco         chrome/content/
+locale    beef-taco  en-US  chrome/locale/en-US/
+
+overlay chrome://browser/content/browser.xul chrome://beef-taco/content/beef-taco.xul
