@@ -3,3 +3,5 @@ package :
 
 clean :
 					rm -f beef-taco.xpi
+cookies:
+					python tools/cookies-csv-to-js.py > cookies.js
