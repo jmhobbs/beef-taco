@@ -1,0 +1,8 @@
+<!ENTITY beef-taco.label "Your localized menuitem">
+<!ENTITY beef-tacoContext.label "Your Menuitem">
+<!ENTITY beef-tacoContext.accesskey "Y">
+<!ENTITY beef-tacoToolbarButton.label "Your Toolbar Button">
+<!ENTITY beef-tacoToolbarButton.tooltip "This is your toolbar button!">
+<!ENTITY beef-tacoSidebar.label "Your Sidebar">
+<!ENTITY beef-tacoToolbar.name  "example">
+<!ENTITY beef-tacoToolbar.label "This is an example toolbar. You can hide it under View &gt; toolbars &gt; &beef-tacoToolbar.name;">

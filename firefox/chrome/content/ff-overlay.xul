@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://beef-taco/skin/overlay.css" type="text/css"?>
+<!DOCTYPE overlay SYSTEM "chrome://beef-taco/locale/overlay.dtd">
+<overlay id="beef-taco-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script src="namespace.js"/>
+  <script src="overlay.js"/>
+  <script src="ff-overlay.js"/>
+
+  <stringbundleset id="stringbundleset">
+    <stringbundle id="beef-taco-strings" src="chrome://beef-taco/locale/overlay.properties"/>
+  </stringbundleset>
+
+  <menupopup id="menu_ToolsPopup">
+    <menuitem id="beef-taco-hello" label="&beef-taco.label;" oncommand="com.github.jmhobbs.beef_taco.onMenuItemCommand( event );"/>
+  </menupopup>
+</overlay>

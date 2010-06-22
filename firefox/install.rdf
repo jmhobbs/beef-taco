@@ -6,6 +6,7 @@
     <em:type>2</em:type>
     <em:name>Beef Taco (Targeted Advertising Cookie Opt-Out)</em:name>
     <em:aboutURL>chrome://beef-taco/content/about.xul</em:aboutURL>
+    <em:optionsURL>chrome://beef-taco/content/options.xul</em:optionsURL>
     <em:targetApplication>
       <Description>
         <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
@@ -15,7 +16,8 @@
     </em:targetApplication>
     <em:iconURL>chrome://beef-taco/content/icon.png</em:iconURL>
     <em:description>Sets permanent opt-out cookies to stop behavioral advertising by 100+ different advertising networks, including Google, Yahoo, Microsoft, all members of the Network Advertising Initiative, and many other companies.</em:description>
-    <em:creator>Christopher Soghoian, John Hobbs</em:creator>
     <em:homepageURL>http://jmhobbs.github.com/beef-taco</em:homepageURL>
+    <em:creator>John Hobbs</em:creator>
+    <em:contributor>Christopher Soghoian</em:contributor>
   </Description>
 </RDF>
