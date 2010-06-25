@@ -3,7 +3,6 @@
 <!DOCTYPE overlay SYSTEM "chrome://beef-taco/locale/overlay.dtd">
 <overlay id="beef-taco-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
   <script src="namespace.js"/>
-  <script src="overlay.js"/>
   <script src="ff-overlay.js"/>
 
   <stringbundleset id="stringbundleset">
@@ -11,6 +10,10 @@
   </stringbundleset>
 
   <menupopup id="menu_ToolsPopup">
-    <menuitem id="beef-taco-hello" label="&beef-taco.label;" oncommand="com.github.jmhobbs.beef_taco.onMenuItemCommand( event );"/>
+    <menu id="beef-taco-menu" label="&beef-taco.label;" class="menu-iconic" image="chrome://beef-taco/content/icon.16x16.png">
+      <menupopup id="beef-taco-menu-popup">
+        <menuitem label="&beef-taco.viewCookiesLabel;" oncommand="com.github.jmhobbs.beef_taco.showAllCookies()" class="menuitem-iconic" image="chrome://beef-taco/content/cookie.16x16.png" />
+      </menupopup>
+    </menu>
   </menupopup>
 </overlay>
