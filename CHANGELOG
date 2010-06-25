@@ -1,0 +1,18 @@
+# 1.2.0 (2010-06-25) [HEAD]
+
+Getting set up for localization.
+Added a menu item to view all cookies.
+More clean up.
+
+# 1.1.0 (2010-06-19) [230f88b]
+
+Taco 2.0 code clean up, mostly just namespacing  the code.
+Added a CSV file based opt-out list and build tools.
+
+# 1.0.1 (2010-06-17) [398959d]
+
+Added more opt-out cookies from Rob Shavell @ Abine.
+
+# 1.0.0 (2010-06-16) [ec62f6a]
+
+Cosmetic changes, straight port of Taco 2.0.
