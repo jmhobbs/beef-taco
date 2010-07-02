@@ -2,10 +2,11 @@
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
     <em:id>john@velvetcache.org</em:id>
-    <em:version>1.2.0</em:version>
+    <em:version>1.3.0</em:version>
     <em:type>2</em:type>
     <em:name>Beef Taco (Targeted Advertising Cookie Opt-Out)</em:name>
     <em:aboutURL>chrome://beef-taco/content/about.xul</em:aboutURL>
+    <em:optionsURL>chrome://beef-taco/content/options.xul</em:optionsURL>
     <em:targetApplication>
       <Description>
         <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
@@ -18,6 +19,7 @@
     <em:homepageURL>http://jmhobbs.github.com/beef-taco</em:homepageURL>
     <em:creator>John Hobbs</em:creator>
     <em:contributor>Ryan Wolf (Build System)</em:contributor>
+    <em:contributor>Yusuke Kamiyamane (Cookie Icon)</em:contributor>
     <em:contributor>Christopher Soghoian (Taco 2.0)</em:contributor>
 		<em:contributor>Daniel Witte (Taco 2.0)</em:contributor>
 		<em:contributor>Sid Stamm (Taco 2.0)</em:contributor>

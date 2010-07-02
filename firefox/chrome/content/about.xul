@@ -7,15 +7,18 @@
 <dialog title="&about; Beef Taco" orient="vertical" autostretch="always" onload="sizeToContent()" buttons="accept" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
   <groupbox align="center" orient="horizontal">
     <vbox>
-      <text value="Beef Taco" style="font-weight: bold; font-size: x-large;"/>
-      <text value="&version; 1.2.0"/>
-      <separator class="thin"/>
-      <text value="&createdBy;" style="font-weight: bold;"/>
-      <text value="John Hobbs"/>
-      <separator class="thin"/>
-      <text value="&homepage;" style="font-weight: bold;"/>
-      <text value="http://jmhobbs.github.com/beef-taco"/>
-      <separator class="thin"/>
+      <text value="Beef Taco" style="font-weight: bold; font-size: x-large;" />
+      <text value="&version; 1.2.0" />
+      <separator class="thin" />
+      <text value="&createdBy;" style="font-weight: bold;" />
+      <text value="John Hobbs" />
+      <separator class="thin" />
+      <text value="&homepage;" style="font-weight: bold;" />
+      <text value="http://jmhobbs.github.com/beef-taco" />
+      <separator class="thin" />
+      <text value="&cookie-icon;" style="font-weight: bold;" />
+      <text value="http://p.yusukekamiyamane.com/" />
+      <separator class="thin" />
     </vbox>
   </groupbox>
 </dialog>

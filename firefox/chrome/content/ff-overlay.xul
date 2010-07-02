@@ -10,10 +10,6 @@
   </stringbundleset>
 
   <menupopup id="menu_ToolsPopup">
-    <menu id="beef-taco-menu" label="&beef-taco.label;" class="menu-iconic" image="chrome://beef-taco/content/icon.16x16.png">
-      <menupopup id="beef-taco-menu-popup">
-        <menuitem label="&beef-taco.viewCookiesLabel;" oncommand="com.github.jmhobbs.beef_taco.showAllCookies()" class="menuitem-iconic" image="chrome://beef-taco/content/cookie.16x16.png" />
-      </menupopup>
-    </menu>
+    <menuitem label="&beef-taco.viewCookiesLabel;" id="beef-taco-cookies" oncommand="com.github.jmhobbs.beef_taco.showAllCookies()" class="menuitem-iconic" image="chrome://beef-taco/content/cookie.16x16.png" />
   </menupopup>
 </overlay>

@@ -1,8 +1,3 @@
 <!ENTITY prefwindow.title "Beef Taco preferences">
 <!ENTITY pane1.title "Beef Taco preferences">
-<!ENTITY checkboolpref.label "A Boolean Preference">
-<!ENTITY checkboolpref.accesskey "B">
-<!ENTITY intpref.label "An Integer Preference">
-<!ENTITY intpref.accesskey "I">
-<!ENTITY stringpref.label "A String Preference">
-<!ENTITY stringpref.accesskey "S">
+<!ENTITY showtoolbarpref.label "Show Cookies Toolbar Item">
