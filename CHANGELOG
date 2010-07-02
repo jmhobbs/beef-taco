@@ -1,6 +1,7 @@
-# 1.3.0 (INCOMPLETE) [HEAD]
+# 1.3.0 (2010-07-02) [b20c596]
 
 Make the menu item an option (default off)
+Fix bad cookie data for optout.yieldoptimizer.com, issue 3, thanks to Rick P. 
 
 # 1.2.0 (2010-06-25) [1f8ad23]
 
