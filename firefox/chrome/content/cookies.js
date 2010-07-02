@@ -1,4 +1,4 @@
-// Generated: Sat, 19 Jun 2010 06:42:34 +0000
+// Generated: Fri, 02 Jul 2010 19:13:54 +0000
 com.github.jmhobbs.beef_taco.cookies = {
 	// [X+1]
 	".edge.ru4.com" :  [ { path: "/", name: "ru4.optout", value: "true" } ],
@@ -182,8 +182,8 @@ com.github.jmhobbs.beef_taco.cookies = {
 	".openx.net" :  [ { path: "/", name: "i", value: "OPT+OUT" } ],
 	// Opinmind
 	".yieldoptimizer.com" :  [ { path: "/", name: "om_optout", value: "1" } ],
-	// optout.yieldoptimizer.com
-	"/" :  [ { path: "opinmind_persist", name: "488444680.36895.0000", value: "" } ],
+	// Opinmind
+	"optout.yieldoptimizer.com" :  [ { path: "/", name: "opinmind_persist", value: "488444680.36895.0000" } ],
 	// Outbrain
 	".outbrain.com" :  [ { path: "/", name: "optout", value: "" } ],
 	// Permuto
