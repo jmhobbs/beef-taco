@@ -1,3 +1,3 @@
-<!ENTITY prefwindow.title "Beef Taco preferences">
-<!ENTITY pane1.title "Beef Taco preferences">
-<!ENTITY showtoolbarpref.label "Show Cookies Toolbar Item">
+<!ENTITY prefwindow.title "Beef Taco Preferences">
+<!ENTITY pane1.title "Beef Taco Preferences">
+<!ENTITY showtoolbarpref.label "Show Cookies Toolbar Item (May Require Restart)">
