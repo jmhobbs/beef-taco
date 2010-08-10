@@ -1,4 +1,4 @@
-// Generated: Fri, 02 Jul 2010 19:13:54 +0000
+// Generated: Tue, 10 Aug 2010 06:27:48 +0000
 com.github.jmhobbs.beef_taco.cookies = {
 	// [X+1]
 	".edge.ru4.com" :  [ { path: "/", name: "ru4.optout", value: "true" } ],
@@ -88,6 +88,8 @@ com.github.jmhobbs.beef_taco.cookies = {
 	".criteo.com" :  [ { path: "/", name: "optout", value: "1" } ],
 	// Dotomi
 	".dotomi.com" :  [ { path: "/", name: "DotomiStatus", value: "5" } ],
+	// DataXu
+	".w55c.net" :  [ { path: "/", name: "optout", value: "1" } ],
 	// E-planning
 	".ads.us.e-planning.net" :  [ { path: "/", name: "US.E-Planning.NET", value: "OPTOUT" } ],
 	// E-planning
@@ -204,6 +206,8 @@ com.github.jmhobbs.beef_taco.cookies = {
 	"recs.richrelevance.com" :  [ { path: "/", name: "prooc", value: "true" } ],
 	// Rocket Fuel
 	".rfihub.com" :  [ { path: "/", name: "a", value: "bOPT_OUT" } ],
+	// Rocket Fuel
+	".rfihub.com" :  [ { path: "/", name: "j", value: "cOPT_OUT" } ],
 	// Safecount
 	".questionmarket.com" :  [ { path: "/", name: "ST", value: "OPTOUT_" } ],
 	// ScanScout
@@ -248,6 +252,8 @@ com.github.jmhobbs.beef_taco.cookies = {
 	".webtrendslive.com" :  [ { path: "/", name: "WTLOPTOUT", value: "yes" } ],
 	// weborama
 	".weborama.fr" :  [ { path: "/", name: "AFFICHE_W", value: "____________" } ],
+	// XGraph
+	".xgraph.net" :  [ { path: "/", name: "XG_OPT_OUT", value: "OPTOUT" } ],
 	// Yahoo
 	".yahoo.com" :  [ { path: "/", name: "AO", value: "o=1" } ],
 	// Yahoo / Right Media
