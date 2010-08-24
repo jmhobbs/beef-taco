@@ -1,4 +1,4 @@
-// Generated: Tue, 10 Aug 2010 06:27:48 +0000
+// Generated: Tue, 24 Aug 2010 21:47:19 +0000
 com.github.jmhobbs.beef_taco.cookies = {
 	// [X+1]
 	".edge.ru4.com" :  [ { path: "/", name: "ru4.optout", value: "true" } ],
@@ -202,6 +202,8 @@ com.github.jmhobbs.beef_taco.cookies = {
 	".quantserve.com" :  [ { path: "/", name: "qoo", value: "OPT_OUT" } ],
 	// Quigo
 	".adsonar.com" :  [ { path: "/", name: "oo_flag", value: "t" } ],
+	// RapLeaf
+	".rlcdn.com" :  [ { path: "/", name: "optout"", value: "Opted Out of RapLeaf Cookies, to re-enable simply delete this cookie." } ],
 	// richrelevance
 	"recs.richrelevance.com" :  [ { path: "/", name: "prooc", value: "true" } ],
 	// Rocket Fuel

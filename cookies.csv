@@ -100,6 +100,7 @@
 "Pulse 360",".kanoodle.com","/","kanoodle-opt-out",1,"0000-00-00 00:00:00",,
 "Quantcast",".quantserve.com","/","qoo","OPT_OUT","0000-00-00 00:00:00",,
 "Quigo",".adsonar.com","/","oo_flag","t","0000-00-00 00:00:00",,
+"RapLeaf",".rlcdn.com","/",optout","Opted Out of RapLeaf Cookies, to re-enable simply delete this cookie.","2010-08-24 16:45:00","New cookie on 2010-08-24, thanks to Rob at Abine"
 "richrelevance","recs.richrelevance.com","/","prooc","true","0000-00-00 00:00:00",,
 "Rocket Fuel",".rfihub.com","/","a","bOPT_OUT","2010-07-30 16:15:00","http://www.rocketfuelinc.com/privacy.html","This one may be phased out for the j cookie. (2010-07-30)"
 "Rocket Fuel",".rfihub.com","/","j","cOPT_OUT","2010-07-30 16:15:00","http://www.rocketfuelinc.com/privacy.html","New cookie on 2010-07-30. The NAI says it's not working."
