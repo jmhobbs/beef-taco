@@ -106,6 +106,9 @@ com.github.jmhobbs.beef_taco.CookieListener = {
 	}
 },
 
+/**
+* Load the extension and set our cookie change listender
+*/
 com.github.jmhobbs.beef_taco.Load = function () {
 
 	// Make sure we only register a single listener
