@@ -2,17 +2,19 @@
 * When we load the overlay.xul, set up the preferences observer.
 */
 com.github.jmhobbs.beef_taco.onStartup = function ( event ) {
+	com.github.jmhobbs.beef_taco.initialized = true;
+	com.github.jmhobbs.beef_taco.strings = document.getElementById( "beef-taco-strings" );
 
-	var strings = document.getElementById( "beef-taco-strings" );
+	com.github.jmhobbs.beef_taco.preferences = Components.classes["@mozilla.org/preferences-service;1"].getService(Components.interfaces.nsIPrefBranch);
+	// In case we haven't edited the prefs screen yet
+	try {
+		document.getElementById( "beef-taco-cookies" ).hidden = ! this.preferences.getBoolPref("extensions.beef-taco.showtoolbarpref" );
+	}
+	catch ( error ) {}
 
-	com.github.jmhobbs.beef_taco.prefService = Components.classes["@mozilla.org/preferences-service;1"].getService( Components.interfaces.nsIPrefService );
-
-	com.github.jmhobbs.beef_taco.prefBranch = com.github.jmhobbs.beef_taco.prefService.getBranch( "extensions.beef-taco." );
-
-	com.github.jmhobbs.beef_taco.prefBranch.QueryInterface( Components.interfaces.nsIPrefBranch2 );
-
-	document.getElementById( "beef-taco-cookies" ).hidden = ! com.github.jmhobbs.beef_taco.prefBranch.getBoolPref( "showtoolbarpref" );
-
+	// Set up observer
+	com.github.jmhobbs.beef_taco.prefBranch = com.github.jmhobbs.beef_taco.preferences.getBranch("extensions.beef-taco.");
+	com.github.jmhobbs.beef_taco.prefBranch.QueryInterface(Components.interfaces.nsIPrefBranch2);
 	com.github.jmhobbs.beef_taco.prefBranch.addObserver( "", com.github.jmhobbs.beef_taco.PreferencesObserver, false );
 };
 
@@ -31,8 +33,8 @@ com.github.jmhobbs.beef_taco.onShutdown = function() {
 com.github.jmhobbs.beef_taco.PreferencesObserver = {
 	observe: function( subject, topic, data ) {
 		if( topic != "nsPref:changed" ) { return; }
-		if( data == "showtoolbarpref" ) {
-			document.getElementById( "beef-taco-cookies" ).hidden = ! com.github.jmhobbs.beef_taco.prefBranch.getBoolPref( "showtoolbarpref" );
+		if( "showtoolbarpref" == data ) {
+			document.getElementById( "beef-taco-cookies" ).hidden = ! com.github.jmhobbs.beef_taco.preferences.getBoolPref( "extensions.beef-taco.showtoolbarpref" );
 		}
 	}
 };

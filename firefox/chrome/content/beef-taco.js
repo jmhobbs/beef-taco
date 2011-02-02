@@ -31,6 +31,8 @@
 * limitations under the License.
 */
 
+// Used to improve shutdown interaction with other cookie managers
+com.github.jmhobbs.beef_taco.unloading = false;
 
 /**
 * Install all of the opt-out cookies
@@ -38,7 +40,6 @@
 com.github.jmhobbs.beef_taco.OptOut = function () {
 	// Temporarily remove our cookie-changed observer, so we don't chase our tail
 	var os = Components.classes['@mozilla.org/observer-service;1'].getService( Components.interfaces.nsIObserverService );
-
 	os.removeObserver( com.github.jmhobbs.beef_taco.CookieListener, 'cookie-changed' );
 
 	var cm = Components.classes['@mozilla.org/cookiemanager;1'].getService( Components.interfaces.nsICookieManager2 );
@@ -91,7 +92,7 @@ com.github.jmhobbs.beef_taco.CookieListener = {
 				// entire cookie database cleared - reset everything
 				com.github.jmhobbs.beef_taco.OptOut();
 			}
-			else if( data == 'deleted' || data == 'changed' ) {
+			else if( ( data == 'deleted' || data == 'changed' ) && ! com.github.jmhobbs.beef_taco.unloading ) {
 				// single cookie deleted or changed - reset just what we need to
 				var cookie = subject.QueryInterface( Components.interfaces.nsICookie2 );
 				var host = cookie.host;
@@ -107,7 +108,7 @@ com.github.jmhobbs.beef_taco.CookieListener = {
 },
 
 /**
-* Load the extension and set our cookie change listender
+* Load the extension and set our cookie change listener
 */
 com.github.jmhobbs.beef_taco.Load = function () {
 
@@ -129,6 +130,8 @@ com.github.jmhobbs.beef_taco.Load = function () {
 * Unload the extension.
 */
 com.github.jmhobbs.beef_taco.Unload = function () {
+	com.github.jmhobbs.beef_taco.unloading = true;
+
 	var hiddenWindow = Components.classes["@mozilla.org/appshell/appShellService;1"].getService( Components.interfaces.nsIAppShellService ).hiddenDOMWindow;
 	hiddenWindow.tacoInitialized--;
 	if( hiddenWindow.tacoInitialized > 0 ) return;
