@@ -8,6 +8,7 @@
     <script type="application/x-javascript">
         window.addEventListener( "load", com.github.jmhobbs.beef_taco.Load, false);
         window.addEventListener( "unload", com.github.jmhobbs.beef_taco.Unload, false);
+        window.addEventListener( "beforeunload", com.github.jmhobbs.beef_taco.BeforeUnload, false);
     </script>
   </window>
 </overlay>

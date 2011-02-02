@@ -1,7 +1,7 @@
 /*
 * Beef Taco - Additions based on "Targeted Advertising Cookie Opt-Out" by Christopher Soghoian
 *
-* Copyright 2010, John Hobbs
+* Copyright 2010-2011, John Hobbs
 * http://www.velvetcache.org/
 *
 * Targeted Advertising Cookie Opt-Out
@@ -31,16 +31,19 @@
 * limitations under the License.
 */
 
-// Used to improve shutdown interaction with other cookie managers
 com.github.jmhobbs.beef_taco.unloading = false;
 
 /**
 * Install all of the opt-out cookies
 */
 com.github.jmhobbs.beef_taco.OptOut = function () {
-	// Temporarily remove our cookie-changed observer, so we don't chase our tail
-	var os = Components.classes['@mozilla.org/observer-service;1'].getService( Components.interfaces.nsIObserverService );
-	os.removeObserver( com.github.jmhobbs.beef_taco.CookieListener, 'cookie-changed' );
+	// This method is also called to reload all cookies, so the observer might not exist.
+	// But if it does, we need to unregister it.
+	try {
+		var os = Components.classes['@mozilla.org/observer-service;1'].getService( Components.interfaces.nsIObserverService );
+		os.removeObserver( com.github.jmhobbs.beef_taco.CookieListener, 'cookie-changed' );
+	}
+	catch( error ){}
 
 	var cm = Components.classes['@mozilla.org/cookiemanager;1'].getService( Components.interfaces.nsICookieManager2 );
 
@@ -60,7 +63,17 @@ com.github.jmhobbs.beef_taco.OptOut = function () {
 		}
 	}
 
-	os.addObserver( com.github.jmhobbs.beef_taco.CookieListener, 'cookie-changed', false );
+	// Give other cookie managers time to load before we start touching the cookies
+	var timer = Components.classes["@mozilla.org/timer;1"].createInstance(Components.interfaces.nsITimer);
+	timer.initWithCallback(
+		function(){
+			var os = Components.classes['@mozilla.org/observer-service;1'].getService( Components.interfaces.nsIObserverService );
+			os.addObserver( com.github.jmhobbs.beef_taco.CookieListener, 'cookie-changed', false );
+		},
+		1500,
+		Components.interfaces.nsITimer.TYPE_ONE_SHOT
+	);
+
 },
 
 
@@ -68,6 +81,7 @@ com.github.jmhobbs.beef_taco.OptOut = function () {
 * Set a single opt-out cookie
 */
 com.github.jmhobbs.beef_taco.SetCookie = function ( host, hostCookie ) {
+
 	var cm = Components.classes['@mozilla.org/cookiemanager;1'].getService( Components.interfaces.nsICookieManager2 );
 
 	const expires = ( new Date( "Jan 1, 3000" ) ).getTime() / 1000;
@@ -88,11 +102,13 @@ com.github.jmhobbs.beef_taco.SetCookie = function ( host, hostCookie ) {
 com.github.jmhobbs.beef_taco.CookieListener = {
 	observe: function( subject, topic, data ) {
 		if( topic == 'cookie-changed' ) {
-			if( data == 'cleared' ) {
+			if( data == 'cleared' && ! com.github.jmhobbs.beef_taco.unloading ) {
+				alert( "Cleared!" );
 				// entire cookie database cleared - reset everything
 				com.github.jmhobbs.beef_taco.OptOut();
 			}
-			else if( ( data == 'deleted' || data == 'changed' ) && ! com.github.jmhobbs.beef_taco.unloading ) {
+			else if( data == 'deleted' && ! com.github.jmhobbs.beef_taco.unloading ) {
+				alert( "Deleted" );
 				// single cookie deleted or changed - reset just what we need to
 				var cookie = subject.QueryInterface( Components.interfaces.nsICookie2 );
 				var host = cookie.host;
@@ -120,16 +136,19 @@ com.github.jmhobbs.beef_taco.Load = function () {
 	}
 	hiddenWindow.tacoInitialized = 1;
 
-	var os = Components.classes['@mozilla.org/observer-service;1'].getService( Components.interfaces.nsIObserverService );
-	os.addObserver( com.github.jmhobbs.beef_taco.CookieListener, 'cookie-changed', false );
-
 	com.github.jmhobbs.beef_taco.OptOut();
 },
+
+com.github.jmhobbs.beef_taco.BeforeUnload = function () {
+		// Prevent a race condition with Abine's Taco
+	com.github.jmhobbs.beef_taco.unloading = true;
+}
 
 /**
 * Unload the extension.
 */
 com.github.jmhobbs.beef_taco.Unload = function () {
+	// Prevent a race condition with Abine's Taco
 	com.github.jmhobbs.beef_taco.unloading = true;
 
 	var hiddenWindow = Components.classes["@mozilla.org/appshell/appShellService;1"].getService( Components.interfaces.nsIAppShellService ).hiddenDOMWindow;
