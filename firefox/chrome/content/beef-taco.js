@@ -31,7 +31,37 @@
 * limitations under the License.
 */
 
-com.github.jmhobbs.beef_taco.unloading = false;
+com.github.jmhobbs.beef_taco.removeCookieObserver = function () {
+	try {
+		var os = Components.classes['@mozilla.org/observer-service;1'].getService( Components.interfaces.nsIObserverService );
+		os.removeObserver( com.github.jmhobbs.beef_taco.CookieListener, 'cookie-changed' );
+	}
+	catch( error ){}
+}
+
+com.github.jmhobbs.beef_taco.addCookieObserver = function () {
+	try {
+		var os = Components.classes['@mozilla.org/observer-service;1'].getService( Components.interfaces.nsIObserverService );
+		os.addObserver( com.github.jmhobbs.beef_taco.CookieListener, 'cookie-changed', false );
+	}
+	catch( error ){}
+}
+
+com.github.jmhobbs.beef_taco.addQuitObserver = function () {
+	try {
+		var os = Components.classes['@mozilla.org/observer-service;1'].getService( Components.interfaces.nsIObserverService );
+		os.addObserver( com.github.jmhobbs.beef_taco.QuitListener, 'quit-application-granted', false );
+	}
+	catch( error ){}
+}
+
+com.github.jmhobbs.beef_taco.removeQuitObserver = function () {
+	try {
+		var os = Components.classes['@mozilla.org/observer-service;1'].getService( Components.interfaces.nsIObserverService );
+		os.removeObserver( com.github.jmhobbs.beef_taco.QuitListener, 'quit-application-granted' );
+	}
+	catch( error ){}
+}
 
 /**
 * Install all of the opt-out cookies
@@ -39,11 +69,7 @@ com.github.jmhobbs.beef_taco.unloading = false;
 com.github.jmhobbs.beef_taco.OptOut = function () {
 	// This method is also called to reload all cookies, so the observer might not exist.
 	// But if it does, we need to unregister it.
-	try {
-		var os = Components.classes['@mozilla.org/observer-service;1'].getService( Components.interfaces.nsIObserverService );
-		os.removeObserver( com.github.jmhobbs.beef_taco.CookieListener, 'cookie-changed' );
-	}
-	catch( error ){}
+	com.github.jmhobbs.beef_taco.removeCookieObserver();
 
 	var cm = Components.classes['@mozilla.org/cookiemanager;1'].getService( Components.interfaces.nsICookieManager2 );
 
@@ -52,24 +78,23 @@ com.github.jmhobbs.beef_taco.OptOut = function () {
 	for( var host in com.github.jmhobbs.beef_taco.cookies ) {
 		var hostCookies = com.github.jmhobbs.beef_taco.cookies[host];
 		for each ( hostCookie in hostCookies ) {
-			cm.add( host,         // host
-				hostCookie.path,   // path
-				hostCookie.name,   // name
-				hostCookie.value,  // value
-				false,  // isSecure
-				false,  // isHttpOnly
-				false,  // isSession
-				expires );
+			cm.add(
+				host,             // host
+				hostCookie.path,  // path
+				hostCookie.name,  // name
+				hostCookie.value, // value
+				false,            // isSecure
+				false,            // isHttpOnly
+				false,            // isSession
+				expires
+			);
 		}
 	}
 
 	// Give other cookie managers time to load before we start touching the cookies
 	var timer = Components.classes["@mozilla.org/timer;1"].createInstance(Components.interfaces.nsITimer);
 	timer.initWithCallback(
-		function(){
-			var os = Components.classes['@mozilla.org/observer-service;1'].getService( Components.interfaces.nsIObserverService );
-			os.addObserver( com.github.jmhobbs.beef_taco.CookieListener, 'cookie-changed', false );
-		},
+		com.github.jmhobbs.beef_taco.addCookieObserver,
 		1500,
 		Components.interfaces.nsITimer.TYPE_ONE_SHOT
 	);
@@ -86,29 +111,30 @@ com.github.jmhobbs.beef_taco.SetCookie = function ( host, hostCookie ) {
 
 	const expires = ( new Date( "Jan 1, 3000" ) ).getTime() / 1000;
 
-	cm.add( host,          // host
-			hostCookie.path,   // path
-			hostCookie.name,   // name
-			hostCookie.value,  // value
-			false,  // isSecure
-			false,  // isHttpOnly
-			false,  // isSession
-			expires );
+	cm.add(
+		host,             // host
+		hostCookie.path,  // path
+		hostCookie.name,  // name
+		hostCookie.value, // value
+		false,            // isSecure
+		false,            // isHttpOnly
+		false,            // isSession
+		expires
+	);
+
 },
 
 /**
-* Listener variable for cookie deleted.
+* Listener object for cookie deleted.
 */
 com.github.jmhobbs.beef_taco.CookieListener = {
 	observe: function( subject, topic, data ) {
 		if( topic == 'cookie-changed' ) {
-			if( data == 'cleared' && ! com.github.jmhobbs.beef_taco.unloading ) {
-				alert( "Cleared!" );
+			if( data == 'cleared' ) {
 				// entire cookie database cleared - reset everything
 				com.github.jmhobbs.beef_taco.OptOut();
 			}
-			else if( data == 'deleted' && ! com.github.jmhobbs.beef_taco.unloading ) {
-				alert( "Deleted" );
+			else if( data == 'deleted' /*|| data == 'changed' */) {
 				// single cookie deleted or changed - reset just what we need to
 				var cookie = subject.QueryInterface( Components.interfaces.nsICookie2 );
 				var host = cookie.host;
@@ -124,7 +150,18 @@ com.github.jmhobbs.beef_taco.CookieListener = {
 },
 
 /**
-* Load the extension and set our cookie change listener
+* Listener object for quit so we can remove our cookie observer.
+*/
+com.github.jmhobbs.beef_taco.QuitListener = {
+	observe: function( subject, topic, data ) {
+		if( topic == 'quit-application-granted' ) {
+			com.github.jmhobbs.beef_taco.removeCookieObserver();
+		}
+	}
+},
+
+/**
+* Load the extension
 */
 com.github.jmhobbs.beef_taco.Load = function () {
 
@@ -136,25 +173,18 @@ com.github.jmhobbs.beef_taco.Load = function () {
 	}
 	hiddenWindow.tacoInitialized = 1;
 
+	com.github.jmhobbs.beef_taco.addQuitObserver();
+
 	com.github.jmhobbs.beef_taco.OptOut();
 },
-
-com.github.jmhobbs.beef_taco.BeforeUnload = function () {
-		// Prevent a race condition with Abine's Taco
-	com.github.jmhobbs.beef_taco.unloading = true;
-}
 
 /**
 * Unload the extension.
 */
 com.github.jmhobbs.beef_taco.Unload = function () {
-	// Prevent a race condition with Abine's Taco
-	com.github.jmhobbs.beef_taco.unloading = true;
-
 	var hiddenWindow = Components.classes["@mozilla.org/appshell/appShellService;1"].getService( Components.interfaces.nsIAppShellService ).hiddenDOMWindow;
 	hiddenWindow.tacoInitialized--;
 	if( hiddenWindow.tacoInitialized > 0 ) return;
 
-	var os = Components.classes['@mozilla.org/observer-service;1'].getService( Components.interfaces.nsIObserverService );
-	os.removeObserver( com.github.jmhobbs.beef_taco.CookieListener, 'cookie-changed' );
+	com.github.jmhobbs.beef_taco.removeQuitObserver();
 }
