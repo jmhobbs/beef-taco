@@ -77,6 +77,7 @@ com.github.jmhobbs.beef_taco.OptOut = function () {
 
 	for( var host in com.github.jmhobbs.beef_taco.cookies ) {
 		var hostCookies = com.github.jmhobbs.beef_taco.cookies[host];
+		var hostCookie = null;
 		for each ( hostCookie in hostCookies ) {
 			cm.add(
 				host,             // host
@@ -139,6 +140,7 @@ com.github.jmhobbs.beef_taco.CookieListener = {
 				var cookie = subject.QueryInterface( Components.interfaces.nsICookie2 );
 				var host = cookie.host;
 				var hostCookies = com.github.jmhobbs.beef_taco.cookies[host];
+				var hostCookie = null;
 				for each ( hostCookie in hostCookies ) {
 					if( hostCookie.name == cookie.name ) {
 						com.github.jmhobbs.beef_taco.SetCookie( host, hostCookie );
