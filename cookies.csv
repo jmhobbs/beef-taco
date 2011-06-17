@@ -102,8 +102,8 @@
 "Quigo",".adsonar.com","/","oo_flag","t","0000-00-00 00:00:00",,
 "RapLeaf",".rlcdn.com","/","optout","Opted Out of RapLeaf Cookies, to re-enable simply delete this cookie.","2010-08-24 16:45:00","New cookie on 2010-08-24, thanks to Rob at Abine",
 "richrelevance","recs.richrelevance.com","/","prooc","true","0000-00-00 00:00:00",,
-"Rocket Fuel",".rfihub.com","/","a","bOPT_OUT","2010-07-30 16:15:00","http://www.rocketfuelinc.com/privacy.html","This one may be phased out for the j cookie. (2010-07-30)"
-"Rocket Fuel",".rfihub.com","/","j","cOPT_OUT","2010-07-30 16:15:00","http://www.rocketfuelinc.com/privacy.html","New cookie on 2010-07-30. The NAI says it's not working."
+"Rocket Fuel",".rfihub.com","/","a","cOPT_OUT","2011-06-17 00:38:00","http://www.rocketfuelinc.com/privacy.html","This one may be phased out for the j cookie. (2010-07-30)"
+"Rocket Fuel",".rfihub.com","/","j","cOPT_OUT","2011-06-17 00:38:00","http://www.rocketfuelinc.com/privacy.html","Updated from http://www.aboutads.info/choices/ (2011-06-17)"
 "Safecount",".questionmarket.com","/","ST","OPTOUT_","0000-00-00 00:00:00",,
 "ScanScout",".scanscout.com","/","ENFORCE_PRIVACY",,"0000-00-00 00:00:00",,
 "Smart Adserver",".smartadserver.com","/","pid","Optout","0000-00-00 00:00:00",,
@@ -132,7 +132,7 @@
 "YuMe Inc.",".yumenetworks.com","/","ymoo","true","0000-00-00 00:00:00",,
 "Zedo (Undertone Networks)",".zedo.com","/","ZEDOIDA","OPT_OUT","0000-00-00 00:00:00",,
 ,".adchemy.com","/","adc_optout","opted_out","2010-11-16 00:00:00","Thanks to Jim Brock at PrivacyChoice",
-,".addthis.com","/","uid",0,"2010-11-16 00:00:01","Thanks to Jim Brock at PrivacyChoice",
+,".addthis.com","/","uid","0000000000000000","2011-06-17 00:41:00","Updated from http://www.aboutads.info/choices/",
 ,".adgear.com","/","AdGear_OPTOUT","agOptedOut","2010-11-16 00:00:02","Thanks to Jim Brock at PrivacyChoice",
 ,".adnxs.com","/","uuid2",-1,"2010-11-16 00:00:03","Thanks to Jim Brock at PrivacyChoice",
 ,".adroll.com","/","__adroll_opt_out","OPT_OUT_foobar","2010-11-16 00:00:04","Thanks to Jim Brock at PrivacyChoice",
@@ -225,6 +225,7 @@
 ,"apps.pubmatic.com","/","pmoo",1,"2010-11-16 00:00:91","Thanks to Jim Brock at PrivacyChoice",
 ,"assets.invitemedia.com","/","optout",1,"2010-11-16 00:00:92","Thanks to Jim Brock at PrivacyChoice",
 ,"assets.invitemedia.com","/","uid",0,"2010-11-16 00:00:93","Thanks to Jim Brock at PrivacyChoice",
+,".invitemedia.com","/","optout","*","2011-06-17 00:43:00","From http://www.aboutads.info/choices/",
 ,"bluestreak.com","/","id","OPT_OUT","2010-11-16 00:00:94","Thanks to Jim Brock at PrivacyChoice",
 ,"bnmla.com","/","optout",1,"2010-11-16 00:00:95","Thanks to Jim Brock at PrivacyChoice",
 ,"connect.wunderloop.net","/","WlOptOut","DONT","2010-11-16 00:00:96","Thanks to Jim Brock at PrivacyChoice",
