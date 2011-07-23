@@ -258,3 +258,17 @@
 ,"vitamine.networldmedia.net","/","OPTOUT",1,"2010-11-16 00:00:123","Thanks to Jim Brock at PrivacyChoice",
 ,"www.acxiom.com","/","CP","null*","2010-11-16 00:00:124","Thanks to Jim Brock at PrivacyChoice",
 ,"www.inadcoads.com","/","_iad_vsid","99999999-9999-9999-9999-999999999999","2010-11-16 00:00:125","Thanks to Jim Brock at PrivacyChoice",
+"Adform",".adform.net","/","C",3,"2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://track.adform.net/serving/opt/iab/opt-out/?token="
+"adGENIE",".adgenie.co.uknet","/","_ngtid","OPTOUT","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://adverts.adgenie.co.uk/optout/optout.php?token="
+"blinkx",".blinkx.com","/","up","off","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://www.blinkx.com/thirdparty/iab/opt-out?token="
+"Crimtan",".delivery.ctasnet.com","/","RTC8","a_","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://www.ctasnet.com/optout.html?token="
+"Flashtalking",".flashtalking.com","/","flashtalkingad1",""optout=1"","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://realmedia.com/common/iab-opt-out.php"
+"Google/Doubleclick",".doubleclick.net","/","_drt_","OPT_OUT","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://googleads.g.doubleclick.net/ads/preferences/iaboptout/optout?token="
+"Microsoft Advertising",".microsoft.com","/","TOptOut","1","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://g.live.com/AIPRIV/IABEU/optout"
+"Sanoma Media Netherlands",".bt.ilsemedia.nl","/","WlOptOut","1","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://rc.bt.Ilsemedia.nl/iab/opt-out.php?token="
+"Unanimis",".unanimis.co.uk","/","OPTOUT","True","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://www.unanimis.co.uk/iab_optout/optout.php?redirect=true&token="
+"YD",".254a.com","/","ydmk[set]","false","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://d.254a.com/yddb?type=yocout&token="
+"Yell",".servedby.yell.com","/","ytrmain","-","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://standard.servedby.yell.com/tr/iab-optout.php?token="
+"Adtech",".adtech.com","/","OptOut","we will not set any more cookies","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren",
+,".atdmt.com","/","TOptOut","1","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren",
+,".atwola.com","/","atdses","O","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren",

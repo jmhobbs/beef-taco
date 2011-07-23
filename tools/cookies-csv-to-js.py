@@ -13,6 +13,6 @@ for row in reader:
 	if row[0] == 'Network':
 		continue
 	print "\t//", row[0]
-	print "\t" + '"' + row[1] + '" :  [ { path: "' + row[2] + '", name: "' + row[3] + '", value: "' + row[4] + '" } ],'
+	print "\t" + '"' + row[1].replace( '"', '\\"' ) + '" :  [ { path: "' + row[2].replace( '"', '\\"' ) + '", name: "' + row[3].replace( '"', '\\"' ) + '", value: "' + row[4].replace( '"', '\\"' ) + '" } ],'
 
 print "}"
