@@ -262,7 +262,7 @@
 "adGENIE",".adgenie.co.uknet","/","_ngtid","OPTOUT","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://adverts.adgenie.co.uk/optout/optout.php?token="
 "blinkx",".blinkx.com","/","up","off","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://www.blinkx.com/thirdparty/iab/opt-out?token="
 "Crimtan",".delivery.ctasnet.com","/","RTC8","a_","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://www.ctasnet.com/optout.html?token="
-"Flashtalking",".flashtalking.com","/","flashtalkingad1",""optout=1"","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://realmedia.com/common/iab-opt-out.php"
+"Flashtalking",".flashtalking.com","/","flashtalkingad1","""optout=1""","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://realmedia.com/common/iab-opt-out.php"
 "Google/Doubleclick",".doubleclick.net","/","_drt_","OPT_OUT","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://googleads.g.doubleclick.net/ads/preferences/iaboptout/optout?token="
 "Microsoft Advertising",".microsoft.com","/","TOptOut","1","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://g.live.com/AIPRIV/IABEU/optout"
 "Sanoma Media Netherlands",".bt.ilsemedia.nl","/","WlOptOut","1","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://rc.bt.Ilsemedia.nl/iab/opt-out.php?token="
@@ -272,3 +272,23 @@
 "Adtech",".adtech.com","/","OptOut","we will not set any more cookies","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren",
 ,".atdmt.com","/","TOptOut","1","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren",
 ,".atwola.com","/","atdses","O","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren",
+"Admeld",".tag.admeld.com","/","admeld_opt_out","true","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
+"Batanga (DoubleClick)",".doubleclick.net","/","id","OPT_OUT","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
+"Buysight",".pulsemgr.com","/","p","OPTOUT","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
+"Cognitive Match",".cognitivematch.com","/","naiOptout","cm","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
+"Cognitive Match",".cmadsasia.com","/","naiOptout","cm","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
+"Cognitive Match",".cmads.com.tw","/","naiOptout","cm","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
+"Cognitive Match",".cmadseu.com","/","naiOptout","cm","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
+"Cross Pixel Media",".crosspixel.net","/","OPTOUT","1","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
+"Dapper",".admonkey.dapper.net","/","DAPPEROPTOUT2","OPT-OUT","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
+"Glamcam",".glam.com","/","optout","1","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
+"Media Innovation Group",".mookie1.com","/","%2emookie1%2ecom/%2f/1/o","0/cookie","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
+"Media Innovation Group",".decideinteractive.com","/","%2edecideinteractive%2ecom/%2f/1/o","0/cookie","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
+"Media Innovation Group",".decdna.net","/","%2edecdna%2enet/%2f/1/o","0/cookie","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
+"Media Innovation Group",".pm14.com","/","%2epm14%2ecom/%2f/1/o","0/cookie","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
+"Pulse360",".pulse360.com","/","pulse360-opt-out","1","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
+"Red Aril",".raasnet.com","/","o","0","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
+"Rocket Fuel",".rfihub.com","/","k","","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
+"Wall Street on Demand",".wsod.com","/","ub","OPT_OUT","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
+"Wall Street on Demand","ad.wsod.com","/","u","OPT_OUT","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
+"[x+1]",".ru4.com","/","X1ID","OO-00000000000000000","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
