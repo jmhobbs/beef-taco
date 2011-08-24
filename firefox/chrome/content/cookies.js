@@ -1,4 +1,4 @@
-// Generated: Thu, 27 Jan 2011 04:56:44 +0000
+// Generated: Wed, 24 Aug 2011 02:13:56 +0000
 com.github.jmhobbs.beef_taco.cookies = {
 	// [X+1]
 	".edge.ru4.com" :  [ { path: "/", name: "ru4.optout", value: "true" } ],
@@ -207,7 +207,7 @@ com.github.jmhobbs.beef_taco.cookies = {
 	// richrelevance
 	"recs.richrelevance.com" :  [ { path: "/", name: "prooc", value: "true" } ],
 	// Rocket Fuel
-	".rfihub.com" :  [ { path: "/", name: "a", value: "bOPT_OUT" } ],
+	".rfihub.com" :  [ { path: "/", name: "a", value: "cOPT_OUT" } ],
 	// Rocket Fuel
 	".rfihub.com" :  [ { path: "/", name: "j", value: "cOPT_OUT" } ],
 	// Safecount
@@ -267,7 +267,7 @@ com.github.jmhobbs.beef_taco.cookies = {
 	// 
 	".adchemy.com" :  [ { path: "/", name: "adc_optout", value: "opted_out" } ],
 	// 
-	".addthis.com" :  [ { path: "/", name: "uid", value: "0" } ],
+	".addthis.com" :  [ { path: "/", name: "uid", value: "0000000000000000" } ],
 	// 
 	".adgear.com" :  [ { path: "/", name: "AdGear_OPTOUT", value: "agOptedOut" } ],
 	// 
@@ -453,6 +453,8 @@ com.github.jmhobbs.beef_taco.cookies = {
 	// 
 	"assets.invitemedia.com" :  [ { path: "/", name: "uid", value: "0" } ],
 	// 
+	".invitemedia.com" :  [ { path: "/", name: "optout", value: "*" } ],
+	// 
 	"bluestreak.com" :  [ { path: "/", name: "id", value: "OPT_OUT" } ],
 	// 
 	"bnmla.com" :  [ { path: "/", name: "optout", value: "1" } ],
@@ -516,4 +518,72 @@ com.github.jmhobbs.beef_taco.cookies = {
 	"www.acxiom.com" :  [ { path: "/", name: "CP", value: "null*" } ],
 	// 
 	"www.inadcoads.com" :  [ { path: "/", name: "_iad_vsid", value: "99999999-9999-9999-9999-999999999999" } ],
+	// Adform
+	".adform.net" :  [ { path: "/", name: "C", value: "3" } ],
+	// adGENIE
+	".adgenie.co.uknet" :  [ { path: "/", name: "_ngtid", value: "OPTOUT" } ],
+	// blinkx
+	".blinkx.com" :  [ { path: "/", name: "up", value: "off" } ],
+	// Crimtan
+	".delivery.ctasnet.com" :  [ { path: "/", name: "RTC8", value: "a_" } ],
+	// Flashtalking
+	".flashtalking.com" :  [ { path: "/", name: "flashtalkingad1", value: "\"optout=1\"" } ],
+	// Google/Doubleclick
+	".doubleclick.net" :  [ { path: "/", name: "_drt_", value: "OPT_OUT" } ],
+	// Microsoft Advertising
+	".microsoft.com" :  [ { path: "/", name: "TOptOut", value: "1" } ],
+	// Sanoma Media Netherlands
+	".bt.ilsemedia.nl" :  [ { path: "/", name: "WlOptOut", value: "1" } ],
+	// Unanimis
+	".unanimis.co.uk" :  [ { path: "/", name: "OPTOUT", value: "True" } ],
+	// YD
+	".254a.com" :  [ { path: "/", name: "ydmk[set]", value: "false" } ],
+	// Yell
+	".servedby.yell.com" :  [ { path: "/", name: "ytrmain", value: "-" } ],
+	// Adtech
+	".adtech.com" :  [ { path: "/", name: "OptOut", value: "we will not set any more cookies" } ],
+	// 
+	".atdmt.com" :  [ { path: "/", name: "TOptOut", value: "1" } ],
+	// 
+	".atwola.com" :  [ { path: "/", name: "atdses", value: "O" } ],
+	// Admeld
+	".tag.admeld.com" :  [ { path: "/", name: "admeld_opt_out", value: "true" } ],
+	// Batanga (DoubleClick)
+	".doubleclick.net" :  [ { path: "/", name: "id", value: "OPT_OUT" } ],
+	// Buysight
+	".pulsemgr.com" :  [ { path: "/", name: "p", value: "OPTOUT" } ],
+	// Cognitive Match
+	".cognitivematch.com" :  [ { path: "/", name: "naiOptout", value: "cm" } ],
+	// Cognitive Match
+	".cmadsasia.com" :  [ { path: "/", name: "naiOptout", value: "cm" } ],
+	// Cognitive Match
+	".cmads.com.tw" :  [ { path: "/", name: "naiOptout", value: "cm" } ],
+	// Cognitive Match
+	".cmadseu.com" :  [ { path: "/", name: "naiOptout", value: "cm" } ],
+	// Cross Pixel Media
+	".crosspixel.net" :  [ { path: "/", name: "OPTOUT", value: "1" } ],
+	// Dapper
+	".admonkey.dapper.net" :  [ { path: "/", name: "DAPPEROPTOUT2", value: "OPT-OUT" } ],
+	// Glamcam
+	".glam.com" :  [ { path: "/", name: "optout", value: "1" } ],
+	// Media Innovation Group
+	".mookie1.com" :  [ { path: "/", name: "%2emookie1%2ecom/%2f/1/o", value: "0/cookie" } ],
+	// Media Innovation Group
+	".decideinteractive.com" :  [ { path: "/", name: "%2edecideinteractive%2ecom/%2f/1/o", value: "0/cookie" } ],
+	// Media Innovation Group
+	".decdna.net" :  [ { path: "/", name: "%2edecdna%2enet/%2f/1/o", value: "0/cookie" } ],
+	// Media Innovation Group
+	".pm14.com" :  [ { path: "/", name: "%2epm14%2ecom/%2f/1/o", value: "0/cookie" } ],
+	// Pulse360
+	".pulse360.com" :  [ { path: "/", name: "pulse360-opt-out", value: "1" } ],
+	// Red Aril
+	".raasnet.com" :  [ { path: "/", name: "o", value: "0" } ],
+	// Rocket Fuel
+	".rfihub.com" :  [ { path: "/", name: "k", value: "" } ],
+	// Wall Street on Demand
+	".wsod.com" :  [ { path: "/", name: "ub", value: "OPT_OUT" } ],
+	// Wall Street on Demand
+	"ad.wsod.com" :  [ { path: "/", name: "u", value: "OPT_OUT" } ],
+	// [x+1]
+	".ru4.com" :  [ { path: "/", name: "X1ID", value: "OO-00000000000000000" } ],
 }
