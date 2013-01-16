@@ -7,8 +7,8 @@ try:
 except ImportError:
     import StringIO
 
-if 1 == len(sys.argv):
-    print "usage: %s [cookies.txt]" % sys.argv[0]
+if 4 != len(sys.argv):
+    print "usage: %s [cookies.txt] [information page] [notes]" % sys.argv[0]
     exit(1)
 
 if not os.path.isfile(sys.argv[1]):
@@ -20,5 +20,5 @@ with open(sys.argv[1], 'r') as handle:
     writer = csv.writer(sink, quoting=csv.QUOTE_ALL)
     for line in handle:
         split = line.strip('\r\n').split('\t')
-        writer.writerow((split[0], split[0], split[2], split[5], split[6], datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S'), "", ""))
+        writer.writerow((split[0], split[0], split[2], split[5], split[6], datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M:%S'), sys.argv[2], sys.argv[3]))
     print sink.getvalue(),
