@@ -1,294 +1,455 @@
-"Network","Domain","Path","Name","Value","Last Checked","Information Page","Notes"
-"[X+1]",".edge.ru4.com","/","ru4.optout","true","0000-00-00 00:00:00",,
-"24/7 Real Media",".247realmedia.com","/","RMOPTOUT",3,"0000-00-00 00:00:00",,
-"24/7 Real Media",".realmedia.com","/","RMOPTOUT",3,"0000-00-00 00:00:00",,
-"33 Across",".33across.com","/","33x_nc","opt-out","0000-00-00 00:00:00",,
-"acerno / Akamai",".imiclk.com","/","IMI","OPT_OUT","2010-07-30 16:15:00","http://www.acerno.com/optout.html",
-"acerno / Akamai",".imiclk.com","/","OL8U",0,"0000-00-00 00:00:00",,"Appears to no longer be used? (2010-07-30)"
-"Acxiom Relevence-x",".mm7.net","/","EMX","VER=6.0&out=1","0000-00-00 00:00:00",,
-"AdAdvisor (Targus)",".adadvisor.net","/","id","opt-out","0000-00-00 00:00:00",,
-"Adbrite",".adbrite.com","/","untarget",1,"0000-00-00 00:00:00",,
-"Adconion",".amgdgt.com","/","OO","OptOut","0000-00-00 00:00:00",,
-"Adify",".afy11.net","/","a","AAAAAAAAAAAAAAAAAAAAAA","0000-00-00 00:00:00",,
-"Adinterax (Yahoo)",".adinterax.com","/","adxoptout",1,"0000-00-00 00:00:00",,
-"Adjuggler","rotator.adjuggler.com","/","aj_optout","optout","0000-00-00 00:00:00",,
-"Adshuffle",".adshuffle.com","/","OptedOut",1,"0000-00-00 00:00:00",,
-"Adtech",".ad.us-ec.adtechus.com","/","OptOut","we will not set any more cookies","0000-00-00 00:00:00",,
-"Adtech",".adserverec.adtechus.com","/","OptOut","we will not set any more cookies","0000-00-00 00:00:00",,
-"Adtech",".adserverwc.adtechus.com","/","OptOut","we will not set any more cookies","0000-00-00 00:00:00",,
-"Adtech",".adtech.de","/","OptOut","we will not set any more cookies","0000-00-00 00:00:00",,
-"Adtech",".glb.adtechus.com","/","OptOut","we will not set any more cookies","0000-00-00 00:00:00",,
-"Advertising.com / AOL",".advertising.com","/","ACID","optout!","0000-00-00 00:00:00",,
-"Aggregate Knowledge",".aggregateknowledge.com","/","uuid","OPTOUT","0000-00-00 00:00:00",,
-"Akamai / abmr.net (AOOC = Akamai Opt Out Cookie)",".abmr.net","/","AOOC",1,"0000-00-00 00:00:00",,
-"AlmondNET",".pro-market.net","/","optout","0+0+0","0000-00-00 00:00:00",,
-"Atlas / Microsoft",".atdmt.com","/","ID","optout","0000-00-00 00:00:00",,
-"Audience Science",".revsci.net","/","NETOPTOUT","true","0000-00-00 00:00:00",,
-"Audience Science",".revsci.net","/","NETID01","optout","0000-00-00 00:00:00",,
-"Bizo",".bizographics.com","/","BizographicsOptOut","OPT_OUT","0000-00-00 00:00:00",,
-"Blue Kai",".bluekai.com","/","BKIgnore",1,"0000-00-00 00:00:00",,
-"Blue Lithium / Yahoo",".adrevolver.com","/","NAI","OPT_OUT","0000-00-00 00:00:00",,
-"Bluestreak",".bluestreak.com","/","id","OPT_OUT","0000-00-00 00:00:00",,
-"Brightroll",".btrll.com","/","id","OPT_OUT","0000-00-00 00:00:00",,
-"BTBuckets",".btbuckets.com","/","optout",1,"0000-00-00 00:00:00",,
-"Burst Media","www.burstnet.com","/","BOO","opt-out","0000-00-00 00:00:00",,
-"Casale",".casalemedia.com","/","CMO",1,"0000-00-00 00:00:00",,
-"Chitika",".chitika.net","/","AO","o%3D1","0000-00-00 00:00:00",,
-"Choicestream","api.choicestream.com","/","OptOut","yes","0000-00-00 00:00:00",,
-"Clicktale",".clicktale.net","/","WRBlock","y","0000-00-00 00:00:00",,
-"Collective Media",".collective-media.net","/","optout",1,"0000-00-00 00:00:00",,
-"comScore VoiceFive",".voicefive.com","/","OptOut",1,"0000-00-00 00:00:00",,
-"Coremetrics","data.cmcore.com","/","ID","OPT_OUT","0000-00-00 00:00:00",,
-"Coremetrics","data.coremetrics.com","/","ID","OPT_OUT","0000-00-00 00:00:00",,
-"Cossette / adcentriconline.com",".adcentriconline.com","/","AdcentricOptout","true","0000-00-00 00:00:00",,
-"Criteo",".criteo.com","/","optout",1,"0000-00-00 00:00:00",,
-"DataXu",".w55c.net","/","optout",1,"2010-07-30 16:15:00","http://www.dataxu.com/privacy-policy.php",
-"Dotomi",".dotomi.com","/","DotomiStatus",5,"0000-00-00 00:00:00",,
-"E-planning",".ads.e-planning.net","/","E-Planning.NET","OPTOUT","0000-00-00 00:00:00",,
-"E-planning",".ads.us.e-planning.net","/","US.E-Planning.NET","OPTOUT","0000-00-00 00:00:00",,
-"Effective Measure",".effectivemeasure.com","/","_em_opt_out",1,"0000-00-00 00:00:00",,
-"Effective Measure",".effectivemeasure.net","/","_em_opt_out",1,"0000-00-00 00:00:00",,
-"Eloqua",".eloqua.com","/","ELOQUA","GUID=00000000000000000000000000000000","0000-00-00 00:00:00",,
-"Exelator",".load.exelator.com","/load/","DNP","eXelate+OptOut","0000-00-00 00:00:00",,
-"Exelator",".loadan.exelator.com","/load/","DNP","eXelate+OptOut","0000-00-00 00:00:00",,
-"Exelator",".loadan.exelator.net","/load/","DNP","eXelate+OptOut","0000-00-00 00:00:00",,
-"Exelator",".loadxl.exelator.biz","/load/","DNP","eXelate+OptOut","0000-00-00 00:00:00",,
-"Exelator",".loadxl.exelator.com","/load/","DNP","eXelate+OptOut","0000-00-00 00:00:00",,
-"Exelator",".loadxl.exelator.com","/load/","DNP","eXelate+OptOut","0000-00-00 00:00:00",,
-"Exelator",".loadxl.exelator.net","/load/","DNP","eXelate+OptOut","0000-00-00 00:00:00",,
-"Eyeblaster /  serving-sys.com",".serving-sys.com","/","ebOptOut","TRUE","0000-00-00 00:00:00",,
-"EyeWonder",".eyewonder.com","/","ew-optout",1,"0000-00-00 00:00:00",,
-"Facilitate Digital",".adsfac.eu","/","OO","OO=1","0000-00-00 00:00:00",,
-"Facilitate Digital",".adsfac.net","/","OO","OO=1","0000-00-00 00:00:00",,
-"Facilitate Digital",".adsfac.sg","/","OO","OO=1","0000-00-00 00:00:00",,
-"Facilitate Digital",".adsfac.us","/","OO","OO=1","0000-00-00 00:00:00",,
-"fastclick (mediaplex/valueclick)",".fastclick.net","/","fastclick","optout","0000-00-00 00:00:00",,
-"Fetchback",".fetchback.com","/","opt",1,"0000-00-00 00:00:00",,
-"Flashtalking","www.flashtalking.com","/","optout","true","0000-00-00 00:00:00",,
-"Fox Audience Network",".fimserve.com","/","NAI",1,"0000-00-00 00:00:00",,
-"Fox Audience Network",".opt.fimserve.com","/","LO",,"0000-00-00 00:00:00",,
-"Fox Audience Network",".opt.fimserve.com","/","UI","|","0000-00-00 00:00:00",,
-"Freewheel",".fwmrm.net","/","opt_out","true","0000-00-00 00:00:00",,
-"Google/Doubleclick",".doubleclick.net","/","id","OPT_OUT","0000-00-00 00:00:00",,
-"Hurra",".hurra.com","/","__coo",1,"0000-00-00 00:00:00",,
-"InterCLICK",".a1.interclick.com","/","Opt","out","0000-00-00 00:00:00",,
-"Lotame  / crwdcntrl.net",".crwdcntrl.net","/","cc","optout","0000-00-00 00:00:00",,
-"Media 6 Degrees",".media6degrees.com","/","orboptout","2-1","0000-00-00 00:00:00",,
-"Media Math",".action.mathtag.com","/","optout",1,"0000-00-00 00:00:00",,
-"Media Plex (Valueclick)",".mediaplex.com","/","svid","OPT-OUT","0000-00-00 00:00:00",,
-"MediaMath",".mathtag.com","/","optout",1,"0000-00-00 00:00:00",,
-"Microsoft / Live.com",".live.com","/","TOptOut",1,"0000-00-00 00:00:00",,
-"Microsoft Advertising",".bing.com","/","TOptOut",1,"0000-00-00 00:00:00",,
-"Microsoft Advertising",".msn.com","/","TOptOut",1,"0000-00-00 00:00:00",,
-"Mindset Media / mmismm.com",".mmismm.com","/","G",-1,"0000-00-00 00:00:00",,
-"Navegg",".navegg.com","/","ltcid","deleted","0000-00-00 00:00:00",,
-"NetMining",".netmng.com","/","EVO5_OPT","%BC%9F%A5%AF%05%98","0000-00-00 00:00:00",,
-"NextAction",".nexac.com","/","na_tc","Y","0000-00-00 00:00:00",,
-"NextAction",".nexac.com","/","na_id","ignore","0000-00-00 00:00:00",,
-"NexTag",".nextag.com","/","ntad","opt-out","0000-00-00 00:00:00",,
-"Nielsen / imrworldwide.com",".imrworldwide.com","/","OPT_OUT","TOTAL","0000-00-00 00:00:00",,
-"Nugg.ad",".nuggad.net","/","nuggstopp","true","0000-00-00 00:00:00",,
-"Omniture / 2o7.net",".2o7.net","/","omniture_optout",1,"0000-00-00 00:00:00",,
-"OpenX",".openx.net","/","i","OPT+OUT","0000-00-00 00:00:00",,
-"Opinmind",".yieldoptimizer.com","/","om_optout",1,"0000-00-00 00:00:00",,
-"Opinmind","optout.yieldoptimizer.com","/","opinmind_persist","488444680.36895.0000","0000-00-00 00:00:00",,
-"Outbrain",".outbrain.com","/","optout",,"0000-00-00 00:00:00",,
-"Permuto",".pulsemgr.com","/","p","OPTOUT","0000-00-00 00:00:00",,
-"Pointroll",".ads.pointroll.com","/","PRID","CONTENT","0000-00-00 00:00:00",,
-"PrecisionClick",".precisionclick.com","/","optout",1,"0000-00-00 00:00:00",,
-"PrecisionClick",".precisionclick.com","/","optoutad",1,"0000-00-00 00:00:00",,
-"Pulse 360",".kanoodle.com","/","kanoodle-opt-out",1,"0000-00-00 00:00:00",,
-"Quantcast",".quantserve.com","/","qoo","OPT_OUT","0000-00-00 00:00:00",,
-"Quigo",".adsonar.com","/","oo_flag","t","0000-00-00 00:00:00",,
-"RapLeaf",".rlcdn.com","/","optout","Opted Out of RapLeaf Cookies, to re-enable simply delete this cookie.","2010-08-24 16:45:00","New cookie on 2010-08-24, thanks to Rob at Abine",
-"richrelevance","recs.richrelevance.com","/","prooc","true","0000-00-00 00:00:00",,
-"Rocket Fuel",".rfihub.com","/","a","cOPT_OUT","2011-06-17 00:38:00","http://www.rocketfuelinc.com/privacy.html","This one may be phased out for the j cookie. (2010-07-30)"
-"Rocket Fuel",".rfihub.com","/","j","cOPT_OUT","2011-06-17 00:38:00","http://www.rocketfuelinc.com/privacy.html","Updated from http://www.aboutads.info/choices/ (2011-06-17)"
-"Safecount",".questionmarket.com","/","ST","OPTOUT_","0000-00-00 00:00:00",,
-"ScanScout",".scanscout.com","/","ENFORCE_PRIVACY",,"0000-00-00 00:00:00",,
-"Smart Adserver",".smartadserver.com","/","pid","Optout","0000-00-00 00:00:00",,
-"Snoobi",".snoobi.com","/","Snoobi_optout",1,"0000-00-00 00:00:00",,
-"Specific Media",".adviva.net","/","ADVIVA","NOTRACK","0000-00-00 00:00:00",,
-"Specific Media",".specificclick.net","/","ADVIVA","NOTRACK","0000-00-00 00:00:00",,
-"Specific Media",".specificmedia.com","/","ADVIVA","NOTRACK","0000-00-00 00:00:00",,
-"Tacoda",".tacoda.net","/","TID","tacodaamoptout","0000-00-00 00:00:00",,
-"Tatto Media","www.tattomedia.com","/assets/tattomedia/optout/","na_optout",1,"0000-00-00 00:00:00",,
-"Tealium","www.tealium.com","/","SM_OPTOUT",1,"0000-00-00 00:00:00",,
-"TradeDoubler",".tradedoubler.com","/","TD_OPT_OUT","dummy","0000-00-00 00:00:00",,
-"Traffic Marketplace",".trafficmp.com","/","naiopt","out","0000-00-00 00:00:00",,
-"Tribal Fusion",".tribalfusion.com","/","ANON_ID","OptOut","0000-00-00 00:00:00",,
-"TruEffect",".adlegend.com","/","ID","OPT_OUT","0000-00-00 00:00:00",,
-"Tumri",".tumri.net","/","t_opt","OPT-OUT","0000-00-00 00:00:00",,
-"Tumri",".yt1187.net","/","t_opt","OPT-OUT","0000-00-00 00:00:00",,
-"Turn",".turn.com","/","optOut",1,"0000-00-00 00:00:00",,
-"Undertone Networks",".ads.undertone.com","/","UTOPTOUT","OPTOUT","0000-00-00 00:00:00",,
-"Vibrant Media",".intellitxt.com","/","ITXTCtxtHistOff",1,"0000-00-00 00:00:00",,
-"Vizu",".vizu.com","/","opt-out","true","0000-00-00 00:00:00",,
-"Web Trends",".webtrendslive.com","/","WTLOPTOUT","yes","0000-00-00 00:00:00",,
-"weborama",".weborama.fr","/","AFFICHE_W","____________","0000-00-00 00:00:00",,
-"XGraph",".xgraph.net","/","XG_OPT_OUT","OPTOUT","2010-07-30 16:15:00","http://www.xgraph.net/optout.php",
-"Yahoo",".yahoo.com","/","AO","o=1","0000-00-00 00:00:00",,
-"Yahoo / Right Media",".ad.yieldmanager.com","/","optout",1,"0000-00-00 00:00:00",,
-"YuMe Inc.",".yumenetworks.com","/","ymoo","true","0000-00-00 00:00:00",,
-"Zedo (Undertone Networks)",".zedo.com","/","ZEDOIDA","OPT_OUT","0000-00-00 00:00:00",,
-,".adchemy.com","/","adc_optout","opted_out","2010-11-16 00:00:00","Thanks to Jim Brock at PrivacyChoice",
-,".addthis.com","/","uid","0000000000000000","2011-06-17 00:41:00","Updated from http://www.aboutads.info/choices/",
-,".adgear.com","/","AdGear_OPTOUT","agOptedOut","2010-11-16 00:00:02","Thanks to Jim Brock at PrivacyChoice",
-,".adnxs.com","/","uuid2",-1,"2010-11-16 00:00:03","Thanks to Jim Brock at PrivacyChoice",
-,".adroll.com","/","__adroll_opt_out","OPT_OUT_foobar","2010-11-16 00:00:04","Thanks to Jim Brock at PrivacyChoice",
-,".adsummos.net","/","adsud0","OPT-OUT","2010-11-16 00:00:05","Thanks to Jim Brock at PrivacyChoice",
-,".amazon.com","/","apn-privacy",1,"2010-11-16 00:00:06","Thanks to Jim Brock at PrivacyChoice",
-,".aol.co.uk","/","WlOptOut","Yes","2010-11-16 00:00:07","Thanks to Jim Brock at PrivacyChoice",
-,".ask.com","/","askeraser","on","2010-11-16 00:00:08","Thanks to Jim Brock at PrivacyChoice",
-,".atdmt.com","/","ID","optout","2010-11-16 00:00:09","Thanks to Jim Brock at PrivacyChoice",
-,".beencounter.com","/","cookie3","no-track","2010-11-16 00:00:10","Thanks to Jim Brock at PrivacyChoice",
-,".brand.net","/","OPT","out","2010-11-16 00:00:11","Thanks to Jim Brock at PrivacyChoice",
-,".buzzlogic.com","/","BL_Opted_Out",1,"2010-11-16 00:00:12","Thanks to Jim Brock at PrivacyChoice",
-,".chango.com","/","chango.optout",1,"2010-11-16 00:00:13","Thanks to Jim Brock at PrivacyChoice",
-,".chitika.net","/","AO","o%3D1","2010-11-16 00:00:14","Thanks to Jim Brock at PrivacyChoice",
-,".constantcontact.com","/","opt-out","opt-out","2010-11-16 00:00:15","Thanks to Jim Brock at PrivacyChoice",
-,".contextweb.com","/","CWOptOutCookie",1,"2010-11-16 00:00:16","Thanks to Jim Brock at PrivacyChoice",
-,".convertro.com","/","cvo_sid1",100000000000,"2010-11-16 00:00:17","Thanks to Jim Brock at PrivacyChoice",
-,".ctasnet.com","/","o",9,"2010-11-16 00:00:18","Thanks to Jim Brock at PrivacyChoice",
-,".demdex.net","/","demdex","NOTARGET","2010-11-16 00:00:19","Thanks to Jim Brock at PrivacyChoice",
-,".displaymarketplace.com","/","NoTrack",6.34086120591247E+017,"2010-11-16 00:00:20","Thanks to Jim Brock at PrivacyChoice",
-,".dotomi.com","/","DotomiRR2000","-1$1$1$","2010-11-16 00:00:21","Thanks to Jim Brock at PrivacyChoice",
-,".esm1.net","/","optout","yes","2010-11-16 00:00:22","Thanks to Jim Brock at PrivacyChoice",
-,".everesttech.net","/","ev_optout",1,"2010-11-16 00:00:23","Thanks to Jim Brock at PrivacyChoice",
-,".exelator.com","/","DNP","eXelate+OptOut","2010-11-16 00:00:24","Thanks to Jim Brock at PrivacyChoice",
-,".eyereturn.com","/","EROO","O","2010-11-16 00:00:25","Thanks to Jim Brock at PrivacyChoice",
-,".gbid.adbuyer.com","/","tuuid","opt-out","2010-11-16 00:00:26","Thanks to Jim Brock at PrivacyChoice",
-,".gigya.com","/","GigNoCK",1,"2010-11-16 00:00:27","Thanks to Jim Brock at PrivacyChoice",
-,".gwallet.com","/","ra1_oo",1,"2010-11-16 00:00:28","Thanks to Jim Brock at PrivacyChoice",
-,".hitbox.com","/","WSS_GW","V1z%BX^e@Ceer","2010-11-16 00:00:29","Thanks to Jim Brock at PrivacyChoice",
-,".impressiondesk.com","/","optout","*","2010-11-16 00:00:30","Thanks to Jim Brock at PrivacyChoice",
-,".keewurd.com","/","OptOut",1,"2010-11-16 00:00:31","Thanks to Jim Brock at PrivacyChoice",
-,".legolas-media.com","/","optout",1,"2010-11-16 00:00:32","Thanks to Jim Brock at PrivacyChoice",
-,".lijit.com","/","tracking_optout",1,"2010-11-16 00:00:33","Thanks to Jim Brock at PrivacyChoice",
-,".meebo.com","/","tcookie","OPT_OUT","2010-11-16 00:00:34","Thanks to Jim Brock at PrivacyChoice",
-,".monster.com","/","CANOptOut",1,"2010-11-16 00:00:35","Thanks to Jim Brock at PrivacyChoice",
-,".mookie1.com","/","optouts","cookies","2010-11-16 00:00:36","Thanks to Jim Brock at PrivacyChoice",
-,".mxptint.net","/","mxpim","optout","2010-11-16 00:00:37","Thanks to Jim Brock at PrivacyChoice",
-,".mybuys.com","/","mbc","optout","2010-11-16 00:00:38","Thanks to Jim Brock at PrivacyChoice",
-,".mythings.com","/","optout",1,"2010-11-16 00:00:39","Thanks to Jim Brock at PrivacyChoice",
-,".newtention.net","/","id","optout","2010-11-16 00:00:40","Thanks to Jim Brock at PrivacyChoice",
-,".owneriq.net","/","optout","optout","2010-11-16 00:00:41","Thanks to Jim Brock at PrivacyChoice",
-,".predictad.com","/","predictad_dc",1,"2010-11-16 00:00:42","Thanks to Jim Brock at PrivacyChoice",
-,".proximic.com","/","optout",1,"2010-11-16 00:00:43","Thanks to Jim Brock at PrivacyChoice",
-,".pulsemgr.com","/","x","OPTOUT","2010-11-16 00:00:44","Thanks to Jim Brock at PrivacyChoice",
-,".qnsr.com","/","QIDA","OPT_OUT","2010-11-16 00:00:45","Thanks to Jim Brock at PrivacyChoice",
-,".raasnet.com","/","o",9,"2010-11-16 00:00:46","Thanks to Jim Brock at PrivacyChoice",
-,".raasnet.com","/","ctrn",0,"2010-11-16 00:00:47","Thanks to Jim Brock at PrivacyChoice",
-,".rfihub.com","/","k","bOPT-OUT","2010-11-16 00:00:48","Thanks to Jim Brock at PrivacyChoice",
-,".rubiconproject.com","/","fu","on","2010-11-16 00:00:49","Thanks to Jim Brock at PrivacyChoice",
-,".saymedia.com","/","UsesLocalStoredObject","NotDetermined","2010-11-16 00:00:50","Thanks to Jim Brock at PrivacyChoice",
-,".scorecardresearch.com","/","NO_COOKIE",1,"2010-11-16 00:00:51","Thanks to Jim Brock at PrivacyChoice",
-,".server.cpmstar.com","/","x",1,"2010-11-16 00:00:52","Thanks to Jim Brock at PrivacyChoice",
-,".sharethis.com","/","st_optout",1,"2010-11-16 00:00:53","Thanks to Jim Brock at PrivacyChoice",
-,".simpli.fi","/","opted_out",1,"2010-11-16 00:00:54","Thanks to Jim Brock at PrivacyChoice",
-,".spongecell.com","/","auid",0,"2010-11-16 00:00:55","Thanks to Jim Brock at PrivacyChoice",
-,".spongecell.com","/","_spongecell_loves_u",,"2010-11-16 00:00:56","Thanks to Jim Brock at PrivacyChoice",
-,".struq.com","/","pref","optout","2010-11-16 00:00:57","Thanks to Jim Brock at PrivacyChoice",
-,".svc.pch.com","/","Optout","OPT_OUT","2010-11-16 00:00:58","Thanks to Jim Brock at PrivacyChoice",
-,".tag.admeld.com","/","admeld_opt_out",1,"2010-11-16 00:00:59","Thanks to Jim Brock at PrivacyChoice",
-,".tellapart.com","/","btexclude",1,"2010-11-16 00:00:60","Thanks to Jim Brock at PrivacyChoice",
-,".teracent.net","/","uid","opt_out.###","2010-11-16 00:00:61","Thanks to Jim Brock at PrivacyChoice",
-,".tidaltv.com","/","opt-out",1,"2010-11-16 00:00:62","Thanks to Jim Brock at PrivacyChoice",
-,".tradedoubler.com","/","OPTOUT","z11zzujzlRSz2","2010-11-16 00:00:63","Thanks to Jim Brock at PrivacyChoice",
-,".traveladvertising.com","/","PRIVACY",1,"2010-11-16 00:00:64","Thanks to Jim Brock at PrivacyChoice",
-,".triggit.com","/","trgoptout",1,"2010-11-16 00:00:65","Thanks to Jim Brock at PrivacyChoice",
-,".valueclick.net","/","ksa","optout","2010-11-16 00:00:66","Thanks to Jim Brock at PrivacyChoice",
-,".veruta.com","/","optout",1,"2010-11-16 00:00:67","Thanks to Jim Brock at PrivacyChoice",
-,".vindicosuite.com","/","VINDICOAUDIENCEISSUEDIDENTITY","VINDICOAUDIENCEOPTOUT","2010-11-16 00:00:68","Thanks to Jim Brock at PrivacyChoice",
-,".visiblemeasures.com","/","UsesLocalStoredObject","NotDetermined","2010-11-16 00:00:69","Thanks to Jim Brock at PrivacyChoice",
-,".wtp101.com","/","tuuid","opt-out","2010-11-16 00:00:70","Thanks to Jim Brock at PrivacyChoice",
-,"ad.wsod.com","/","u_1","OPT_OUT","2010-11-16 00:00:71","Thanks to Jim Brock at PrivacyChoice",
-,"ad.yieldmanager.com","/","optout",1,"2010-11-16 00:00:72","Thanks to Jim Brock at PrivacyChoice",
-,"ad.yieldmanager.com","/","optout",1,"2010-11-16 00:00:73","Thanks to Jim Brock at PrivacyChoice",
-,"ad.yieldmanager.com","/","optout",1,"2010-11-16 00:00:74","Thanks to Jim Brock at PrivacyChoice",
-,"adadvisor.net","/","id","opt-out","2010-11-16 00:00:75","Thanks to Jim Brock at PrivacyChoice",
-,"admonkey.dapper.net","/","DAPPEROPTOUT","OPT-OUT","2010-11-16 00:00:76","Thanks to Jim Brock at PrivacyChoice",
-,"ads.bridgetrack.com","/","BTA","GUID=00000000000000000000000000000000","2010-11-16 00:00:77","Thanks to Jim Brock at PrivacyChoice",
-,"ads.e-planning.net","/","E-Planning.NET","OPTOUT","2010-11-16 00:00:78","Thanks to Jim Brock at PrivacyChoice",
-,"ads.heias.de","/","hco","a%3A2%3A%7Bi%3A0%3Bs%3A4%3A%22TRUE%22%3Bi%3A1%3Bi%3A1397354654%3B%7D","2010-11-16 00:00:79","Thanks to Jim Brock at PrivacyChoice",
-,"ads.pointroll.com","/","PRID","OPTOUT","2010-11-16 00:00:80","Thanks to Jim Brock at PrivacyChoice",
-,"ads.undertone.com","/","UTOPTOUT","OPTOUT","2010-11-16 00:00:81","Thanks to Jim Brock at PrivacyChoice",
-,"ads.us.e-planning.net","/","US.E-Planning.NET","OPTOUT","2010-11-16 00:00:82","Thanks to Jim Brock at PrivacyChoice",
-,"adsfac.eu","/","OO","OO=1","2010-11-16 00:00:83","Thanks to Jim Brock at PrivacyChoice",
-,"adsfac.net","/","OO","OO=1","2010-11-16 00:00:84","Thanks to Jim Brock at PrivacyChoice",
-,"adsfac.sg","/","OO","OO=1","2010-11-16 00:00:85","Thanks to Jim Brock at PrivacyChoice",
-,"adsfac.us","/","OO","OO=1","2010-11-16 00:00:86","Thanks to Jim Brock at PrivacyChoice",
-,"adsonar.com","/","oo_flag","f","2010-11-16 00:00:87","Thanks to Jim Brock at PrivacyChoice",
-,"adv.adsbwm.com","/","OxaMedia_OPT_OUT",,"2010-11-16 00:00:88","Thanks to Jim Brock at PrivacyChoice",
-,"amadesa.com","/","amOptout",1,"2010-11-16 00:00:89","Thanks to Jim Brock at PrivacyChoice",
-,"amgdgt.com","/","OptOut","AAAAAQAUMcmt2dLy01_5OEIR8ei6TnoK9XEAAEwUvPxVWUKxtPOEtjKZGR8-","2010-11-16 00:00:90","Thanks to Jim Brock at PrivacyChoice",
-,"apps.pubmatic.com","/","pmoo",1,"2010-11-16 00:00:91","Thanks to Jim Brock at PrivacyChoice",
-,"assets.invitemedia.com","/","optout",1,"2010-11-16 00:00:92","Thanks to Jim Brock at PrivacyChoice",
-,"assets.invitemedia.com","/","uid",0,"2010-11-16 00:00:93","Thanks to Jim Brock at PrivacyChoice",
-,".invitemedia.com","/","optout","*","2011-06-17 00:43:00","From http://www.aboutads.info/choices/",
-,"bluestreak.com","/","id","OPT_OUT","2010-11-16 00:00:94","Thanks to Jim Brock at PrivacyChoice",
-,"bnmla.com","/","optout",1,"2010-11-16 00:00:95","Thanks to Jim Brock at PrivacyChoice",
-,"connect.wunderloop.net","/","WlOptOut","DONT","2010-11-16 00:00:96","Thanks to Jim Brock at PrivacyChoice",
-,"crwdcntrl.net","/","cc","optout","2010-11-16 00:00:97","Thanks to Jim Brock at PrivacyChoice",
-,"designbloxlive.com","/","Adroit_id","opt_out","2010-11-16 00:00:98","Thanks to Jim Brock at PrivacyChoice",
-,"designbloxlive.com","/","Adroit_vars","opt_out","2010-11-16 00:00:99","Thanks to Jim Brock at PrivacyChoice",
-,"domdex.com","/","optout",1,"2010-11-16 00:00:100","Thanks to Jim Brock at PrivacyChoice",
-,"doubleclick.net","/","id","OPT_OUT","2010-11-16 00:00:101","Thanks to Jim Brock at PrivacyChoice",
-,"fwmrm.net","/","opt_out",1,"2010-11-16 00:00:102","Thanks to Jim Brock at PrivacyChoice",
-,"g.adspeed.net","/","ASOptOut",1,"2010-11-16 00:00:103","Thanks to Jim Brock at PrivacyChoice",
-,"interclick.com","/","Opt","out","2010-11-16 00:00:104","Thanks to Jim Brock at PrivacyChoice",
-,"load.exelator.com","/","DNP","eXelate+OptOut","2010-11-16 00:00:105","Thanks to Jim Brock at PrivacyChoice",
-,"log.doubleverify.com","/","dv_opt_out",0,"2010-11-16 00:00:106","Thanks to Jim Brock at PrivacyChoice",
-,"lulu.ru4.com","/","ru4.optout",1,"2010-11-16 00:00:107","Thanks to Jim Brock at PrivacyChoice",
-,"nextag.com","/","ntad","opt-out","2010-11-16 00:00:108","Thanks to Jim Brock at PrivacyChoice",
-,"nspmotion.com","/","admcol","ip=1200750637&dbs=0&fs=0&uid=1","2010-11-16 00:00:109","Thanks to Jim Brock at PrivacyChoice",
-,"opt.w55c.net","/","optout",1,"2010-11-16 00:00:110","Thanks to Jim Brock at PrivacyChoice",
-,"optout.ib-ibi.com","/","ib-ibi.com-OptOut","IsOptOut=true","2010-11-16 00:00:111","Thanks to Jim Brock at PrivacyChoice",
-,"p.brilig.com","/","BriligContact","OPT_OUT","2010-11-16 00:00:112","Thanks to Jim Brock at PrivacyChoice",
-,"qjex.net","/","optout",1,"2010-11-16 00:00:113","Thanks to Jim Brock at PrivacyChoice",
-,"rlcdn.com","/","optout","Opted+Out+of+RapLeaf+Cookies%2C+to+re-enable+simply+delete+this+cookie.","2010-11-16 00:00:114","Thanks to Jim Brock at PrivacyChoice",
-,"search.netseer.com","/","netseer_optout","optout","2010-11-16 00:00:115","Thanks to Jim Brock at PrivacyChoice",
-,"spongecell.com","/","cookie_opt_out",1,"2010-11-16 00:00:116","Thanks to Jim Brock at PrivacyChoice",
-,"spotexchange.com","/","opt_out-0","b3B0X291dAlvcHRfb3V0CWNvb2tpZV9kb21haW4Jd3d3LnNwb3R4Y2hhbmdlLmNvbQljcmVhdGVkX2RhdGUJMTI0MDAwMzQ5Nwltb2RpZmllZF9kYXRlCTEyNDAwMDM0OTcK","2010-11-16 00:00:117","Thanks to Jim Brock at PrivacyChoice",
-,"tealium.com","/","SM_OPTOUT",1,"2010-11-16 00:00:118","Thanks to Jim Brock at PrivacyChoice",
-,"tracking.intermundomedia.com","/","ID","OPT_OUT","2010-11-16 00:00:119","Thanks to Jim Brock at PrivacyChoice",
-,"tracking.quisma.com","/","tracker_optout",1,"2010-11-16 00:00:120","Thanks to Jim Brock at PrivacyChoice",
-,"tracking.reedge.com","/","REED_optout","all%3DMQ%3D%3D","2010-11-16 00:00:121","Thanks to Jim Brock at PrivacyChoice",
-,"tribalfusion.com","/","ANON_ID","OptOut","2010-11-16 00:00:122","Thanks to Jim Brock at PrivacyChoice",
-,"vitamine.networldmedia.net","/","OPTOUT",1,"2010-11-16 00:00:123","Thanks to Jim Brock at PrivacyChoice",
-,"www.acxiom.com","/","CP","null*","2010-11-16 00:00:124","Thanks to Jim Brock at PrivacyChoice",
-,"www.inadcoads.com","/","_iad_vsid","99999999-9999-9999-9999-999999999999","2010-11-16 00:00:125","Thanks to Jim Brock at PrivacyChoice",
-"Adform",".adform.net","/","C",3,"2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://track.adform.net/serving/opt/iab/opt-out/?token="
-"adGENIE",".adgenie.co.uknet","/","_ngtid","OPTOUT","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://adverts.adgenie.co.uk/optout/optout.php?token="
-"blinkx",".blinkx.com","/","up","off","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://www.blinkx.com/thirdparty/iab/opt-out?token="
-"Crimtan",".delivery.ctasnet.com","/","RTC8","a_","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://www.ctasnet.com/optout.html?token="
-"Flashtalking",".flashtalking.com","/","flashtalkingad1","""optout=1""","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://realmedia.com/common/iab-opt-out.php"
-"Google/Doubleclick",".doubleclick.net","/","_drt_","OPT_OUT","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://googleads.g.doubleclick.net/ads/preferences/iaboptout/optout?token="
-"Microsoft Advertising",".microsoft.com","/","TOptOut","1","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://g.live.com/AIPRIV/IABEU/optout"
-"Sanoma Media Netherlands",".bt.ilsemedia.nl","/","WlOptOut","1","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://rc.bt.Ilsemedia.nl/iab/opt-out.php?token="
-"Unanimis",".unanimis.co.uk","/","OPTOUT","True","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://www.unanimis.co.uk/iab_optout/optout.php?redirect=true&token="
+".247realmedia.com",".247realmedia.com","/","tfsm-csrf-token","4458132","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".247realmedia.com",".247realmedia.com","/","RMOPTOUT","3","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
 "YD",".254a.com","/","ydmk[set]","false","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://d.254a.com/yddb?type=yocout&token="
+"Omniture / 2o7.net",".2o7.net","/","omniture_optout","1","0000-00-00 00:00:00","",""
+".33across.com",".33across.com","/","33x_nc","33Across+Optout","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"33 Across",".33across.com","/","33x_nc","opt-out","0000-00-00 00:00:00","",""
+"InterCLICK",".a1.interclick.com","/","Opt","out","0000-00-00 00:00:00","",""
+".abmr.net",".abmr.net","/","AOOC","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Media Math",".action.mathtag.com","/","optout","1","0000-00-00 00:00:00","",""
+".ad.mlnadvertising.com",".ad.mlnadvertising.com","/","optout","optout","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Adtech",".ad.us-ec.adtechus.com","/","OptOut","we will not set any more cookies","0000-00-00 00:00:00","",""
+"Yahoo / Right Media",".ad.yieldmanager.com","/","optout","1","0000-00-00 00:00:00","",""
+".adadvisor.net",".adadvisor.net","/","aa","opt-out","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"AdAdvisor (Targus)",".adadvisor.net","/","id","opt-out","0000-00-00 00:00:00","",""
+".adap.tv",".adap.tv","/","csrf_token","csrf","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".adap.tv",".adap.tv","/","optout","true","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".adblade.com",".adblade.com","/","__optout","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".adbrite.com",".adbrite.com","/","untarget","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Cossette / adcentriconline.com",".adcentriconline.com","/","AdcentricOptout","true","0000-00-00 00:00:00","",""
+"",".adchemy.com","/","adc_optout","opted_out","2010-11-16 00:00:00","Thanks to Jim Brock at PrivacyChoice",""
+".addthis.com",".addthis.com","/","uid","0000000000000000","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Adform",".adform.net","/","C","3","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://track.adform.net/serving/opt/iab/opt-out/?token="
+"",".adgear.com","/","AdGear_OPTOUT","agOptedOut","2010-11-16 00:00:02","Thanks to Jim Brock at PrivacyChoice",""
+"adGENIE",".adgenie.co.uknet","/","_ngtid","OPTOUT","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://adverts.adgenie.co.uk/optout/optout.php?token="
+"Adinterax (Yahoo)",".adinterax.com","/","adxoptout","1","0000-00-00 00:00:00","",""
+".adlegend.com",".adlegend.com","/","ID","OPT_OUT","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Dapper",".admonkey.dapper.net","/","DAPPEROPTOUT2","OPT-OUT","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",""
+"",".adnxs.com","/","uuid2","-1","2010-11-16 00:00:03","Thanks to Jim Brock at PrivacyChoice",""
+"Blue Lithium / Yahoo",".adrevolver.com","/","NAI","OPT_OUT","0000-00-00 00:00:00","",""
+"",".adroll.com","/","__adroll_opt_out","OPT_OUT_foobar","2010-11-16 00:00:04","Thanks to Jim Brock at PrivacyChoice",""
+"E-planning",".ads.e-planning.net","/","E-Planning.NET","OPTOUT","0000-00-00 00:00:00","",""
+".ads.pointroll.com",".ads.pointroll.com","/","PRID","OPTOUT","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Pointroll",".ads.pointroll.com","/","PRID","CONTENT","0000-00-00 00:00:00","",""
+"Undertone Networks",".ads.undertone.com","/","UTOPTOUT","OPTOUT","0000-00-00 00:00:00","",""
+"E-planning",".ads.us.e-planning.net","/","US.E-Planning.NET","OPTOUT","0000-00-00 00:00:00","",""
+"Adtech",".adserverec.adtechus.com","/","OptOut","we will not set any more cookies","0000-00-00 00:00:00","",""
+"Adtech",".adserverwc.adtechus.com","/","OptOut","we will not set any more cookies","0000-00-00 00:00:00","",""
+"Facilitate Digital",".adsfac.eu","/","OO","OO=1","0000-00-00 00:00:00","",""
+"Facilitate Digital",".adsfac.net","/","OO","OO=1","0000-00-00 00:00:00","",""
+"Facilitate Digital",".adsfac.sg","/","OO","OO=1","0000-00-00 00:00:00","",""
+"Facilitate Digital",".adsfac.us","/","OO","OO=1","0000-00-00 00:00:00","",""
+"Adshuffle",".adshuffle.com","/","OptedOut","1","0000-00-00 00:00:00","",""
+".adsonar.com",".adsonar.com","/","oo_flag","t","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".adsummos.net","/","adsud0","OPT-OUT","2010-11-16 00:00:05","Thanks to Jim Brock at PrivacyChoice",""
+"Adtech",".adtech.com","/","OptOut","we will not set any more cookies","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren",""
+".adtech.de",".adtech.de","/","JEB2","NOID","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".adtech.de",".adtech.de","/","OptOut","we will not set any more cookies","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".adtechus.com",".adtechus.com","/","JEB2","NOID","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".adtechus.com",".adtechus.com","/","OptOut","we will not set any more cookies","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".advertising.com",".advertising.com","/","ACID","optout!","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".adviva.net",".adviva.net","/","ADVIVA","NOTRACK","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".afy11.net",".afy11.net","/","a","AAAAAAAAAAAAAAAAAAAAAA","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".aggregateknowledge.com",".aggregateknowledge.com","/","uuid","OPTOUT","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".agkn.com",".agkn.com","/","uuid","OPTOUT","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".amazon.com","/","apn-privacy","1","2010-11-16 00:00:06","Thanks to Jim Brock at PrivacyChoice",""
+".amgdgt.com",".amgdgt.com","/","OO","OptOut","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".aol.co.uk","/","WlOptOut","Yes","2010-11-16 00:00:07","Thanks to Jim Brock at PrivacyChoice",""
+"",".ask.com","/","askeraser","on","2010-11-16 00:00:08","Thanks to Jim Brock at PrivacyChoice",""
+".atdmt.com",".atdmt.com","/","TOptOut","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".atdmt.com","/","ID","optout","2010-11-16 00:00:09","Thanks to Jim Brock at PrivacyChoice",""
+".atwola.com",".atwola.com","/","atdses","O","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".b3-uk.mookie1.com",".b3-uk.mookie1.com","/","tfsm-csrf-token","5246398","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".b3.mookie1.com",".b3.mookie1.com","/","tfsm-csrf-token","8422088","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".beencounter.com","/","cookie3","no-track","2010-11-16 00:00:10","Thanks to Jim Brock at PrivacyChoice",""
+".bing.com",".bing.com","/","TOptOut","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".bizographics.com",".bizographics.com","/","BizographicsID","""""","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".bizographics.com",".bizographics.com","/","BizoID","""""","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".bizographics.com",".bizographics.com","/","BizoData","""""","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".bizographics.com",".bizographics.com","/","BizoCustomSegments","""""","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".bizographics.com",".bizographics.com","/","BizoNetworkPartnerIndex","""""","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".bizographics.com",".bizographics.com","/","BizoUserMatchHistory","""""","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".bizographics.com",".bizographics.com","/","BizographicsOptOut","OPT_OUT","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"blinkx",".blinkx.com","/","up","off","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://www.blinkx.com/thirdparty/iab/opt-out?token="
+".bluekai.com",".bluekai.com","/","BKIgnore","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Bluestreak",".bluestreak.com","/","id","OPT_OUT","0000-00-00 00:00:00","",""
+"",".brand.net","/","OPT","out","2010-11-16 00:00:11","Thanks to Jim Brock at PrivacyChoice",""
+".brilig.com",".brilig.com","/contact/","BriligContact","OPT_OUT","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Sanoma Media Netherlands",".bt.ilsemedia.nl","/","WlOptOut","1","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://rc.bt.Ilsemedia.nl/iab/opt-out.php?token="
+"BTBuckets",".btbuckets.com","/","optout","1","0000-00-00 00:00:00","",""
+".btrll.com",".btrll.com","/","coop_session","NDA4Mg","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".btrll.com",".btrll.com","/","id","OPT_OUT","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".burstnet.com",".burstnet.com","/","BOO","opt-out","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".buzzlogic.com","/","BL_Opted_Out","1","2010-11-16 00:00:12","Thanks to Jim Brock at PrivacyChoice",""
+".casalemedia.com",".casalemedia.com","/","CMO","2","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Casale",".casalemedia.com","/","CMO","1","0000-00-00 00:00:00","",""
+".chango.com",".chango.com","/","chango.optout","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".channelintelligence.com",".channelintelligence.com","/","OPTOUT","OPTOUT","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".chitika.net","/","AO","o%3D1","2010-11-16 00:00:14","Thanks to Jim Brock at PrivacyChoice",""
+".choicestream.com",".choicestream.com","/","OptOut","yes","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Clicktale",".clicktale.net","/","WRBlock","y","0000-00-00 00:00:00","",""
+"Cognitive Match",".cmads.com.tw","/","naiOptout","cm","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",""
+"Cognitive Match",".cmadsasia.com","/","naiOptout","cm","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",""
+"Cognitive Match",".cmadseu.com","/","naiOptout","cm","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",""
+".cmmeglobal.com",".cmmeglobal.com","/","naiOptout","cm","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".cogmatch.net",".cogmatch.net","/","naiOptout","cm","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".cognitivematch.com",".cognitivematch.com","/","naiOptout","cm","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".collective-media.net",".collective-media.net","/","ootok","00000","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".collective-media.net",".collective-media.net","/","optout","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".constantcontact.com","/","opt-out","opt-out","2010-11-16 00:00:15","Thanks to Jim Brock at PrivacyChoice",""
+".contextweb.com",".contextweb.com","/","CWOptOutCookie","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".convertro.com","/","cvo_sid1","100000000000","2010-11-16 00:00:17","Thanks to Jim Brock at PrivacyChoice",""
+".criteo.com",".criteo.com","/","tk","201301160913","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".criteo.com",".criteo.com","/","optout","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Cross Pixel Media",".crosspixel.net","/","OPTOUT","1","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",""
+".crsspxl.com",".crsspxl.com","/","OPTOUT","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".crsspxl.com",".crsspxl.com","/","uid","0","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".crwdcntrl.net",".crwdcntrl.net","/","cc","optout","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".ctasnet.com","/","o","9","2010-11-16 00:00:18","Thanks to Jim Brock at PrivacyChoice",""
+".decdna.net",".decdna.net","/","tfsm-csrf-token","5394227","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".decdna.net",".decdna.net","/","%2edecdna%2enet/%2f/1/o","0/cookie","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".decideinteractive.com",".decideinteractive.com","/","tfsm-csrf-token","1043734","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".decideinteractive.com",".decideinteractive.com","/","%2edecideinteractive%2ecom/%2f/1/o","0/cookie","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Crimtan",".delivery.ctasnet.com","/","RTC8","a_","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://www.ctasnet.com/optout.html?token="
+"",".demdex.net","/","demdex","NOTARGET","2010-11-16 00:00:19","Thanks to Jim Brock at PrivacyChoice",""
+".displaymarketplace.com",".displaymarketplace.com","/","NoTrack","""Aperture Opt-Out""","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".displaymarketplace.com","/","NoTrack","6.34086120591247E+017","2010-11-16 00:00:20","Thanks to Jim Brock at PrivacyChoice",""
+".domdex.com",".domdex.com","/","optout","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".dotomi.com",".dotomi.com","/","DotomiStatus","5","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".dotomi.com","/","DotomiRR2000","-1$1$1$","2010-11-16 00:00:21","Thanks to Jim Brock at PrivacyChoice",""
+".doubleclick.net",".doubleclick.net","/ads/preferences","pm_sess_1025783861","ACi0TCgY6n1inpl8L7WzmZeI8HTntGEo07qEa7ZgXOyiF1UCvWD5wau5ZtcS0gbeEZ7cVib-fqUi","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".doubleclick.net",".doubleclick.net","/settings/ads/onweb","pm_sess_1025783861","ACi0TCgY6n1inpl8L7WzmZeI8HTntGEo07qEa7ZgXOyiF1UCvWD5wau5ZtcS0gbeEZ7cVib-fqUi","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".doubleclick.net",".doubleclick.net","/ads/preferences","pm_sess_1963314870","ACi0TCg3eSF9sLq7fku5VRbKGZ6XjymrPGIh5req5nxryK2UIIi7G60dOIepJoYcqODXgqfxV-LN","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".doubleclick.net",".doubleclick.net","/settings/ads/onweb","pm_sess_1963314870","ACi0TCg3eSF9sLq7fku5VRbKGZ6XjymrPGIh5req5nxryK2UIIi7G60dOIepJoYcqODXgqfxV-LN","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".doubleclick.net",".doubleclick.net","/ads/preferences","pm_sess_2942280266","ACi0TCiAsZin-8xDT0lKL7VFjiKELsYYy55yIPxy54ldVfFNW0JtSFeKTLQvO7SpTE1vNYAVU4TY","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".doubleclick.net",".doubleclick.net","/settings/ads/onweb","pm_sess_2942280266","ACi0TCiAsZin-8xDT0lKL7VFjiKELsYYy55yIPxy54ldVfFNW0JtSFeKTLQvO7SpTE1vNYAVU4TY","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".doubleclick.net",".doubleclick.net","/ads/preferences","pm_sess_3808763683","ACi0TChhO-MXXZPvyk9Iest-fK9QivPoFqeKUlpT9QyZp-yT7bT7dTA3NKi1NuU4og7eAHVjFipb","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".doubleclick.net",".doubleclick.net","/settings/ads/onweb","pm_sess_3808763683","ACi0TChhO-MXXZPvyk9Iest-fK9QivPoFqeKUlpT9QyZp-yT7bT7dTA3NKi1NuU4og7eAHVjFipb","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".doubleclick.net",".doubleclick.net","/ads/preferences","pm_sess_4271238215","ACi0TCg61PR3sOFJCSEYbNJ_8aB1HAYYXQTL10X9vEbsIdc7sFrD1mADSBW-rsTYtKu3SeWMlXFg","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".doubleclick.net",".doubleclick.net","/settings/ads/onweb","pm_sess_4271238215","ACi0TCg61PR3sOFJCSEYbNJ_8aB1HAYYXQTL10X9vEbsIdc7sFrD1mADSBW-rsTYtKu3SeWMlXFg","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".doubleclick.net",".doubleclick.net","/ads/preferences","pm_sess_2640125432","ACi0TCjUkhZg8E11K6wSHdXjpx-civLYCqo3nJCKJv6NBzTN9bOicXHhLjwMGkJnbfdmtz4HLfcC","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".doubleclick.net",".doubleclick.net","/settings/ads/onweb","pm_sess_2640125432","ACi0TCjUkhZg8E11K6wSHdXjpx-civLYCqo3nJCKJv6NBzTN9bOicXHhLjwMGkJnbfdmtz4HLfcC","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".doubleclick.net",".doubleclick.net","/ads/preferences","pm_sess_3861980628","ACi0TCi8TkQkF6HnKbrmQygStD6s4u4OWoDW-Ib2NUzibY7H0lzHEBFhxVCXycJhpOujEjHE4jH0","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".doubleclick.net",".doubleclick.net","/settings/ads/onweb","pm_sess_3861980628","ACi0TCi8TkQkF6HnKbrmQygStD6s4u4OWoDW-Ib2NUzibY7H0lzHEBFhxVCXycJhpOujEjHE4jH0","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".doubleclick.net",".doubleclick.net","/","id","OPT_OUT","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".doubleclick.net",".doubleclick.net","/","_drt_","OPT_OUT","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".dtfssearch.com",".dtfssearch.com","/","tfsm-csrf-token","6086734","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".dtfssearch.com",".dtfssearch.com","/","%2edtfssearch%2ecom/%2f/1/o","0/cookie","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"[X+1]",".edge.ru4.com","/","ru4.optout","true","0000-00-00 00:00:00","",""
+"Effective Measure",".effectivemeasure.com","/","_em_opt_out","1","0000-00-00 00:00:00","",""
+"Effective Measure",".effectivemeasure.net","/","_em_opt_out","1","0000-00-00 00:00:00","",""
+"Eloqua",".eloqua.com","/","ELOQUA","GUID=00000000000000000000000000000000","0000-00-00 00:00:00","",""
+"",".esm1.net","/","optout","yes","2010-11-16 00:00:22","Thanks to Jim Brock at PrivacyChoice",""
+"",".everesttech.net","/","ev_optout","1","2010-11-16 00:00:23","Thanks to Jim Brock at PrivacyChoice",""
+".exelator.com",".exelator.com","/","DNP","eXelate+OptOut","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".eyereturn.com",".eyereturn.com","/","EROO","O","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"EyeWonder",".eyewonder.com","/","ew-optout","1","0000-00-00 00:00:00","",""
+".ez.n.btbuckets.com",".ez.n.btbuckets.com","/","btboptout","yes","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".fastclick.net",".fastclick.net","/","fastclick","optout","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Fetchback",".fetchback.com","/","opt","1","0000-00-00 00:00:00","",""
+"Fox Audience Network",".fimserve.com","/","NAI","1","0000-00-00 00:00:00","",""
+"Flashtalking",".flashtalking.com","/","flashtalkingad1","""optout=1""","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://realmedia.com/common/iab-opt-out.php"
+"Freewheel",".fwmrm.net","/","opt_out","true","0000-00-00 00:00:00","",""
+"",".gbid.adbuyer.com","/","tuuid","opt-out","2010-11-16 00:00:26","Thanks to Jim Brock at PrivacyChoice",""
+"",".gigya.com","/","GigNoCK","1","2010-11-16 00:00:27","Thanks to Jim Brock at PrivacyChoice",""
+".glam.com",".glam.com","/","optout","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Adtech",".glb.adtechus.com","/","OptOut","we will not set any more cookies","0000-00-00 00:00:00","",""
+".gmads.net",".gmads.net","/","optout","do_not_track_me","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".google.com",".google.com","/","PREF","ID=f99e325142a22f8b:TM=1358316725:LM=1358316725:S=_944_3f9sS44pVJA","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".google.com",".google.com","/","NID","67=U5IjFWzo4b3MN5k0TD9COVYOJrGyOARK1iQ7Gb_6D0JmcvpASP8qaZH7fMs6LagIoWBX5Ww3ABRmUjL4GfuVy154apMOA0kfomEwwFOUcF_E5ojC8S9rB9VhRn1gV24d","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".gwallet.com",".gwallet.com","/","ra1_oo","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".hitbox.com","/","WSS_GW","V1z%BX^e@Ceer","2010-11-16 00:00:29","Thanks to Jim Brock at PrivacyChoice",""
+"Hurra",".hurra.com","/","__coo","1","0000-00-00 00:00:00","",""
+".ib.mookie1.com",".ib.mookie1.com","/","tfsm-csrf-token","9681780","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"acerno / Akamai",".imiclk.com","/","IMI","OPT_OUT","2010-07-30 16:15:00","http://www.acerno.com/optout.html",""
+".imiclk.com",".imiclk.com","/","OL8U","0","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".impressiondesk.com","/","optout","*","2010-11-16 00:00:30","Thanks to Jim Brock at PrivacyChoice",""
+"Nielsen / imrworldwide.com",".imrworldwide.com","/","OPT_OUT","TOTAL","0000-00-00 00:00:00","",""
+".intellitxt.com",".intellitxt.com","/","ITXTCtxtHistOff","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".interclick.com",".interclick.com","/","Opt","out","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".invitemedia.com","/","optout","*","2011-06-17 00:43:00","From http://www.aboutads.info/choices/",""
+"Pulse 360",".kanoodle.com","/","kanoodle-opt-out","1","0000-00-00 00:00:00","",""
+"",".keewurd.com","/","OptOut","1","2010-11-16 00:00:31","Thanks to Jim Brock at PrivacyChoice",""
+".kontera.com",".kontera.com","/","KONA_CAN_HAZ","cookie","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".kontera.com",".kontera.com","/","KONA_USER_GUID","no_track","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".legolas-media.com",".legolas-media.com","/","ootok","1358316784681130","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".legolas-media.com",".legolas-media.com","/","optout","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".lijit.com","/","tracking_optout","1","2010-11-16 00:00:33","Thanks to Jim Brock at PrivacyChoice",""
+".live.com",".live.com","/","TOptOut","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".liverail.com",".liverail.com","/","optout","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Exelator",".load.exelator.com","/load/","DNP","eXelate+OptOut","0000-00-00 00:00:00","",""
+"Exelator",".loadan.exelator.com","/load/","DNP","eXelate+OptOut","0000-00-00 00:00:00","",""
+"Exelator",".loadan.exelator.net","/load/","DNP","eXelate+OptOut","0000-00-00 00:00:00","",""
+"Exelator",".loadxl.exelator.biz","/load/","DNP","eXelate+OptOut","0000-00-00 00:00:00","",""
+"Exelator",".loadxl.exelator.com","/load/","DNP","eXelate+OptOut","0000-00-00 00:00:00","",""
+"Exelator",".loadxl.exelator.net","/load/","DNP","eXelate+OptOut","0000-00-00 00:00:00","",""
+".mathtag.com",".mathtag.com","/","optout","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".media6degrees.com",".media6degrees.com","/","orboptout","2-2","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Media 6 Degrees",".media6degrees.com","/","orboptout","2-1","0000-00-00 00:00:00","",""
+".mediaforge.com",".mediaforge.com","/","opt-out","opt-out","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".mediaplex.com",".mediaplex.com","/","svid","OPT-OUT","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".meebo.com","/","tcookie","OPT_OUT","2010-11-16 00:00:34","Thanks to Jim Brock at PrivacyChoice",""
+".microsoft.com",".microsoft.com","/","TOptOut","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".mixpo.com",".mixpo.com","/","sid","50f644f254c09","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".mixpo.com",".mixpo.com","/","optout","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Acxiom Relevence-x",".mm7.net","/","EMX","VER=6.0&out=1","0000-00-00 00:00:00","",""
+".mmismm.com",".mmismm.com","/","U","-1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Mindset Media / mmismm.com",".mmismm.com","/","G","-1","0000-00-00 00:00:00","",""
+"",".monster.com","/","CANOptOut","1","2010-11-16 00:00:35","Thanks to Jim Brock at PrivacyChoice",""
+".mookie1.com",".mookie1.com","/","%2emookie1%2ecom/%2f/1/o","0/cookie","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".mookie1.com",".mookie1.com","/","optouts","cookies","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".mookie1.com",".mookie1.com","/","RMOPTOUT","3","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".mookie1.com",".mookie1.com","/","optout","donottrackme","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".mozilla.org",".mozilla.org","/","WT_FPC","id=28a023ac3e0ef351f4b1358309536351:lv=1358309536351:ss=1358309536351","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".mozilla.org",".mozilla.org","/","wtspl","139422","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".msn.com",".msn.com","/","TOptOut","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".mxptint.net",".mxptint.net","/","mxpim","optout","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".mybuys.com","/","mbc","optout","2010-11-16 00:00:38","Thanks to Jim Brock at PrivacyChoice",""
+"",".mythings.com","/","optout","1","2010-11-16 00:00:39","Thanks to Jim Brock at PrivacyChoice",""
+"Navegg",".navegg.com","/","ltcid","deleted","0000-00-00 00:00:00","",""
+".netmng.com",".netmng.com","/","EVO5_OPT","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"NetMining",".netmng.com","/","EVO5_OPT","%BC%9F%A5%AF%05%98","0000-00-00 00:00:00","",""
+".netseer.com",".netseer.com","/","netseer_optout","optout","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".networkadvertising.org",".networkadvertising.org","/","SESSe1115783335eb9cc57aa5e254e366666","jafc94onchjg3rkt8khjivphk5","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".networkadvertising.org",".networkadvertising.org","/","__utma","44367163.547204160.1358316773.1358316773.1358316773.1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".networkadvertising.org",".networkadvertising.org","/","__utmb","44367163.3.9.1358316911445","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".networkadvertising.org",".networkadvertising.org","/","__utmc","44367163","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".networkadvertising.org",".networkadvertising.org","/","__utmz","44367163.1358316773.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".newtention.net","/","id","optout","2010-11-16 00:00:40","Thanks to Jim Brock at PrivacyChoice",""
+".nexac.com",".nexac.com","/","na_id","ignore","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".nexac.com",".nexac.com","/","na_tc","Y","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"NexTag",".nextag.com","/","ntad","opt-out","0000-00-00 00:00:00","",""
+"Nugg.ad",".nuggad.net","/","nuggstopp","true","0000-00-00 00:00:00","",""
+"OpenX",".openx.net","/","i","OPT+OUT","0000-00-00 00:00:00","",""
+"Fox Audience Network",".opt.fimserve.com","/","LO","","0000-00-00 00:00:00","",""
+"Fox Audience Network",".opt.fimserve.com","/","UI","|","0000-00-00 00:00:00","",""
+".optout.mookie1.com",".optout.mookie1.com","/","tfsm-csrf-token","2085369","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Outbrain",".outbrain.com","/","optout","","0000-00-00 00:00:00","",""
+".owneriq.net",".owneriq.net","/","optout","optout","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".p-td.com",".p-td.com","/","optOut","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".picadmedia.com",".picadmedia.com","/","ISM_Privacy","optout%3D1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".pictela.net",".pictela.net","/","CliID","optOut","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".pm14.com",".pm14.com","/","tfsm-csrf-token","3111646","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".pm14.com",".pm14.com","/","%2epm14%2ecom/%2f/1/o","0/cookie","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".po.st",".po.st","/","post_optout","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"PrecisionClick",".precisionclick.com","/","optout","1","0000-00-00 00:00:00","",""
+"PrecisionClick",".precisionclick.com","/","optoutad","1","0000-00-00 00:00:00","",""
+"",".predictad.com","/","predictad_dc","1","2010-11-16 00:00:42","Thanks to Jim Brock at PrivacyChoice",""
+".pro-market.net",".pro-market.net","/","optout","0+0+0","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".proximic.com","/","optout","1","2010-11-16 00:00:43","Thanks to Jim Brock at PrivacyChoice",""
+".pswec.com",".pswec.com","/","psrw","OO","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".pswec.com",".pswec.com","/","tuuid","opt-out","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".pubmatic.com",".pubmatic.com","/","pmoo","true","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".pulse360.com",".pulse360.com","/","pulse360-opt-out","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".pulse360.com",".pulse360.com","/","kanoodle-opt-out","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".pulse360.com",".pulse360.com","/","wcpanalytics-opt-out","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".pulsemgr.com",".pulsemgr.com","/","p","OPTOUT","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".pulsemgr.com","/","x","OPTOUT","2010-11-16 00:00:44","Thanks to Jim Brock at PrivacyChoice",""
+"",".qnsr.com","/","QIDA","OPT_OUT","2010-11-16 00:00:45","Thanks to Jim Brock at PrivacyChoice",""
+"Quantcast",".quantserve.com","/","qoo","OPT_OUT","0000-00-00 00:00:00","",""
+"Safecount",".questionmarket.com","/","ST","OPTOUT_","0000-00-00 00:00:00","",""
+".raasnet.com",".raasnet.com","/","o","9","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Red Aril",".raasnet.com","/","o","0","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",""
+"",".raasnet.com","/","ctrn","0","2010-11-16 00:00:47","Thanks to Jim Brock at PrivacyChoice",""
+".realmedia.com",".realmedia.com","/","tfsm-csrf-token","5763127","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".realmedia.com",".realmedia.com","/","RMOPTOUT","3","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".revsci.net",".revsci.net","/","NETID01","optout","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Audience Science",".revsci.net","/","NETOPTOUT","true","0000-00-00 00:00:00","",""
+".rfihub.com",".rfihub.com","/","a","cOPT_OUT","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".rfihub.com",".rfihub.com","/","j","cOPT_OUT","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Rocket Fuel",".rfihub.com","/","k","","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",""
+"",".rfihub.com","/","k","bOPT-OUT","2010-11-16 00:00:48","Thanks to Jim Brock at PrivacyChoice",""
+".richrelevance.com",".richrelevance.com","/","prooc","true","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".rlcdn.com",".rlcdn.com","/","optout","Opted-Out-of-RapLeaf-Cookies.-To-opt-in-simply-delete-this-cookie.","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"RapLeaf",".rlcdn.com","/","optout","Opted Out of RapLeaf Cookies, to re-enable simply delete this cookie.","2010-08-24 16:45:00","New cookie on 2010-08-24, thanks to Rob at Abine",""
+".ru4.com",".ru4.com","/","X1ID","OO-00000000000000000","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".rubiconproject.com",".rubiconproject.com","/","1874254657a8434b0e51e4925653f0f4","1874254657a8434b0e51e4925653f0f4","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".rubiconproject.com",".rubiconproject.com","/","trp_optout","true","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".rubiconproject.com","/","fu","on","2010-11-16 00:00:49","Thanks to Jim Brock at PrivacyChoice",""
+"",".saymedia.com","/","UsesLocalStoredObject","NotDetermined","2010-11-16 00:00:50","Thanks to Jim Brock at PrivacyChoice",""
+"ScanScout",".scanscout.com","/","ENFORCE_PRIVACY","","0000-00-00 00:00:00","",""
+"",".scorecardresearch.com","/","NO_COOKIE","1","2010-11-16 00:00:51","Thanks to Jim Brock at PrivacyChoice",""
 "Yell",".servedby.yell.com","/","ytrmain","-","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://standard.servedby.yell.com/tr/iab-optout.php?token="
-"Adtech",".adtech.com","/","OptOut","we will not set any more cookies","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren",
-,".atdmt.com","/","TOptOut","1","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren",
-,".atwola.com","/","atdses","O","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren",
-"Admeld",".tag.admeld.com","/","admeld_opt_out","true","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
-"Batanga (DoubleClick)",".doubleclick.net","/","id","OPT_OUT","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
-"Buysight",".pulsemgr.com","/","p","OPTOUT","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
-"Cognitive Match",".cognitivematch.com","/","naiOptout","cm","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
-"Cognitive Match",".cmadsasia.com","/","naiOptout","cm","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
-"Cognitive Match",".cmads.com.tw","/","naiOptout","cm","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
-"Cognitive Match",".cmadseu.com","/","naiOptout","cm","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
-"Cross Pixel Media",".crosspixel.net","/","OPTOUT","1","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
-"Dapper",".admonkey.dapper.net","/","DAPPEROPTOUT2","OPT-OUT","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
-"Glamcam",".glam.com","/","optout","1","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
-"Media Innovation Group",".mookie1.com","/","%2emookie1%2ecom/%2f/1/o","0/cookie","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
-"Media Innovation Group",".decideinteractive.com","/","%2edecideinteractive%2ecom/%2f/1/o","0/cookie","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
-"Media Innovation Group",".decdna.net","/","%2edecdna%2enet/%2f/1/o","0/cookie","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
-"Media Innovation Group",".pm14.com","/","%2epm14%2ecom/%2f/1/o","0/cookie","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
-"Pulse360",".pulse360.com","/","pulse360-opt-out","1","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
-"Red Aril",".raasnet.com","/","o","0","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
-"Rocket Fuel",".rfihub.com","/","k","","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
-"Wall Street on Demand",".wsod.com","/","ub","OPT_OUT","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
-"Wall Street on Demand","ad.wsod.com","/","u","OPT_OUT","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
-"[x+1]",".ru4.com","/","X1ID","OO-00000000000000000","2011-07-24 10:00:00","http://www.networkadvertising.org/managing/opt_out.asp",
+"",".server.cpmstar.com","/","x","1","2010-11-16 00:00:52","Thanks to Jim Brock at PrivacyChoice",""
+".services.addons.mozilla.org",".services.addons.mozilla.org","/","__utma","145953462.166746209.1358316738.1358316738.1358316738.1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".services.addons.mozilla.org",".services.addons.mozilla.org","/","__utmb","145953462.1.10.1358316738","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".services.addons.mozilla.org",".services.addons.mozilla.org","/","__utmc","145953462","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".services.addons.mozilla.org",".services.addons.mozilla.org","/","__utmz","145953462.1358316738.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".serving-sys.com",".serving-sys.com","/","ebOptOut","TRUE","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".sharethis.com",".sharethis.com","/","st_optout","true","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".sharethis.com","/","st_optout","1","2010-11-16 00:00:53","Thanks to Jim Brock at PrivacyChoice",""
+"",".simpli.fi","/","opted_out","1","2010-11-16 00:00:54","Thanks to Jim Brock at PrivacyChoice",""
+"Smart Adserver",".smartadserver.com","/","pid","Optout","0000-00-00 00:00:00","",""
+"Snoobi",".snoobi.com","/","Snoobi_optout","1","0000-00-00 00:00:00","",""
+".specificclick.net",".specificclick.net","/","ADVIVA","NOTRACK","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".specificmedia.com",".specificmedia.com","/","ADVIVA","NOTRACK","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".spongecell.com","/","auid","0","2010-11-16 00:00:55","Thanks to Jim Brock at PrivacyChoice",""
+"",".spongecell.com","/","_spongecell_loves_u","","2010-11-16 00:00:56","Thanks to Jim Brock at PrivacyChoice",""
+".steelhousemedia.com",".steelhousemedia.com","/","opt_out","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".struq.com","/","pref","optout","2010-11-16 00:00:57","Thanks to Jim Brock at PrivacyChoice",""
+"",".svc.pch.com","/","Optout","OPT_OUT","2010-11-16 00:00:58","Thanks to Jim Brock at PrivacyChoice",""
+"Tacoda",".tacoda.net","/","TID","tacodaamoptout","0000-00-00 00:00:00","",""
+".tag.admeld.com",".tag.admeld.com","/","admeld_opt_out","true","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".tag.admeld.com","/","admeld_opt_out","1","2010-11-16 00:00:59","Thanks to Jim Brock at PrivacyChoice",""
+".tellapart.com",".tellapart.com","/","taoptout","OPTED_OUT","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".tellapart.com","/","btexclude","1","2010-11-16 00:00:60","Thanks to Jim Brock at PrivacyChoice",""
+"",".teracent.net","/","uid","opt_out.###","2010-11-16 00:00:61","Thanks to Jim Brock at PrivacyChoice",""
+".tidaltv.com",".tidaltv.com","/","opt-out","true","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".tidaltv.com","/","opt-out","1","2010-11-16 00:00:62","Thanks to Jim Brock at PrivacyChoice",""
+"",".tradedoubler.com","/","OPTOUT","z11zzujzlRSz2","2010-11-16 00:00:63","Thanks to Jim Brock at PrivacyChoice",""
+"TradeDoubler",".tradedoubler.com","/","TD_OPT_OUT","dummy","0000-00-00 00:00:00","",""
+"Traffic Marketplace",".trafficmp.com","/","naiopt","out","0000-00-00 00:00:00","",""
+"",".traveladvertising.com","/","PRIVACY","1","2010-11-16 00:00:64","Thanks to Jim Brock at PrivacyChoice",""
+".tribalfusion.com",".tribalfusion.com","/","TF_SecToken","2256095955","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".tribalfusion.com",".tribalfusion.com","/","ANON_ID","OptOut","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".triggit.com","/","trgoptout","1","2010-11-16 00:00:65","Thanks to Jim Brock at PrivacyChoice",""
+".tubemogul.com",".tubemogul.com","/","PHPSESSID","upbdlm0s1h4c7te87pk5c3akq0","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".tubemogul.com",".tubemogul.com","/","_tmid","opted+out","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".tumri.net",".tumri.net","/","t_opt","OPT-OUT","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".turn.com",".turn.com","/","optOut","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Unanimis",".unanimis.co.uk","/","OPTOUT","True","2011-07-23 12:00:00","http://www.youronlinechoices.com/nl/uw-advertentie-voorkeuren","http://www.unanimis.co.uk/iab_optout/optout.php?redirect=true&token="
+".undertone.com",".undertone.com","/","A28X","0","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".valueclick.net","/","ksa","optout","2010-11-16 00:00:66","Thanks to Jim Brock at PrivacyChoice",""
+"",".veruta.com","/","optout","1","2010-11-16 00:00:67","Thanks to Jim Brock at PrivacyChoice",""
+".via.me",".via.me","/","viame_optout","true","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".via.me",".via.me","/","_session_id","BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJTI5Mzc2NDYzNWEzY2RmYzAyM2VlODIxZDNkMTZhYTJkBjsAVEkiE3VzZXJfcmV0dXJuX3RvBjsARkkiAbJodHRwOi8vdmlhLm1lL3IxL29wdG91dD9vcHRvdXQmcmExJmRhdGE9R0FFaWlDREF3T0Rrd05EUTJLaWlGb2RIUndPaWk4dmQzZDNMbTVsZEhkdmNtdGhaSFpsY25ScGMybHVaeTV2Y21jeUpsaFZTMUE1VkdoME1VTlFZbkJQV2xSSFVXZENhMHhZYlc1YVJYSkhTRkZUVW5kU1ZrdG4mcmFuZD0xMzU4MzE2ODcwMTI2BjsARg%3D%3D--7d700467d8d92097651e37e3d96237852c03ded6","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".vindicosuite.com","/","VINDICOAUDIENCEISSUEDIDENTITY","VINDICOAUDIENCEOPTOUT","2010-11-16 00:00:68","Thanks to Jim Brock at PrivacyChoice",""
+"",".visiblemeasures.com","/","UsesLocalStoredObject","NotDetermined","2010-11-16 00:00:69","Thanks to Jim Brock at PrivacyChoice",""
+"Vizu",".vizu.com","/","opt-out","true","0000-00-00 00:00:00","",""
+"comScore VoiceFive",".voicefive.com","/","OptOut","1","0000-00-00 00:00:00","",""
+"DataXu",".w55c.net","/","optout","1","2010-07-30 16:15:00","http://www.dataxu.com/privacy-policy.php",""
+"weborama",".weborama.fr","/","AFFICHE_W","____________","0000-00-00 00:00:00","",""
+"Web Trends",".webtrendslive.com","/","WTLOPTOUT","yes","0000-00-00 00:00:00","",""
+".wsod.com",".wsod.com","/","ub","OPT_OUT","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"",".wtp101.com","/","tuuid","opt-out","2010-11-16 00:00:70","Thanks to Jim Brock at PrivacyChoice",""
+"XGraph",".xgraph.net","/","XG_OPT_OUT","OPTOUT","2010-07-30 16:15:00","http://www.xgraph.net/optout.php",""
+".yahoo.com",".yahoo.com","/","AO","o=1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".yahoo.com",".yahoo.com","/","B","687ucht8fch7l&b=4&d=4auM3vprYH0wsQ--&s=f2","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".yieldoptimizer.com",".yieldoptimizer.com","/","om_nai_token","2168210944418632671","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".yieldoptimizer.com",".yieldoptimizer.com","/","om_optout","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".youknowbest.com",".youknowbest.com","/","OPTOUT","OPTOUT","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Tumri",".yt1187.net","/","t_opt","OPT-OUT","0000-00-00 00:00:00","",""
+".yumenetworks.com",".yumenetworks.com","/","ymoo","true","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".zedo.com",".zedo.com","/","NAI_ZEDO","65kBSFtVxQuMw","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+".zedo.com",".zedo.com","/","ZEDOIDA","OPT_OUT","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"a.intentmedia.net","a.intentmedia.net","/","intentmedia_user_id","OptOut","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"a.netmng.com","a.netmng.com","/","EVO5_token","63fd92ed764cdbe196203daab6ada91e","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"a.tellapart.com","a.tellapart.com","/","AWSELB","61F9BF7902E01E82ECA0FF8351BB3AA3EE55F0C80E320361A70C44D1907F0992F33C5D971AE01919169C1E22219BB420D3AB56F2AB32C9C547A57BABB158ABCE5215E09987","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"a1.interclick.com","a1.interclick.com","/","ASP.NET_SessionId","g5lcwyvlr4gs211qywts15x4","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"ad.wsod.com","ad.wsod.com","/","u","OPT_OUT","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"","ad.wsod.com","/","u_1","OPT_OUT","2010-11-16 00:00:71","Thanks to Jim Brock at PrivacyChoice",""
+"","ad.yieldmanager.com","/","optout","1","2010-11-16 00:00:72","Thanks to Jim Brock at PrivacyChoice",""
+"","adadvisor.net","/","id","opt-out","2010-11-16 00:00:75","Thanks to Jim Brock at PrivacyChoice",""
+"","admonkey.dapper.net","/","DAPPEROPTOUT","OPT-OUT","2010-11-16 00:00:76","Thanks to Jim Brock at PrivacyChoice",""
+"","ads.bridgetrack.com","/","BTA","GUID=00000000000000000000000000000000","2010-11-16 00:00:77","Thanks to Jim Brock at PrivacyChoice",""
+"","ads.e-planning.net","/","E-Planning.NET","OPTOUT","2010-11-16 00:00:78","Thanks to Jim Brock at PrivacyChoice",""
+"","ads.heias.de","/","hco","a%3A2%3A%7Bi%3A0%3Bs%3A4%3A%22TRUE%22%3Bi%3A1%3Bi%3A1397354654%3B%7D","2010-11-16 00:00:79","Thanks to Jim Brock at PrivacyChoice",""
+"ads.mediaforge.com","ads.mediaforge.com","/","SERVERID","sqPid1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"","ads.pointroll.com","/","PRID","OPTOUT","2010-11-16 00:00:80","Thanks to Jim Brock at PrivacyChoice",""
+"ads.undertone.com","ads.undertone.com","/","UTOPTOUT","OPTOUT","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"","ads.us.e-planning.net","/","US.E-Planning.NET","OPTOUT","2010-11-16 00:00:82","Thanks to Jim Brock at PrivacyChoice",""
+"","adsfac.eu","/","OO","OO=1","2010-11-16 00:00:83","Thanks to Jim Brock at PrivacyChoice",""
+"","adsfac.net","/","OO","OO=1","2010-11-16 00:00:84","Thanks to Jim Brock at PrivacyChoice",""
+"","adsfac.sg","/","OO","OO=1","2010-11-16 00:00:85","Thanks to Jim Brock at PrivacyChoice",""
+"","adsfac.us","/","OO","OO=1","2010-11-16 00:00:86","Thanks to Jim Brock at PrivacyChoice",""
+"","adsonar.com","/","oo_flag","f","2010-11-16 00:00:87","Thanks to Jim Brock at PrivacyChoice",""
+"","adv.adsbwm.com","/","OxaMedia_OPT_OUT","","2010-11-16 00:00:88","Thanks to Jim Brock at PrivacyChoice",""
+"","amadesa.com","/","amOptout","1","2010-11-16 00:00:89","Thanks to Jim Brock at PrivacyChoice",""
+"","amgdgt.com","/","OptOut","AAAAAQAUMcmt2dLy01_5OEIR8ei6TnoK9XEAAEwUvPxVWUKxtPOEtjKZGR8-","2010-11-16 00:00:90","Thanks to Jim Brock at PrivacyChoice",""
+"Choicestream","api.choicestream.com","/","OptOut","yes","0000-00-00 00:00:00","",""
+"apps.pubmatic.com","apps.pubmatic.com","/","JSESSIONID","BE696809CA3CE866C757B8611EC045C1.mgmt3002TomcatOne","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"apps.pubmatic.com","apps.pubmatic.com","/","NSC_KTFTTJPOJE","ffffffff090817ff45525d5f4f58455e445a4a423660","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"apps.pubmatic.com","apps.pubmatic.com","/","pub_coop_token","E6vWjkQxnVKDvtFr1ZhvVE3oMmEmYbOVjN8F","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"","apps.pubmatic.com","/","pmoo","1","2010-11-16 00:00:91","Thanks to Jim Brock at PrivacyChoice",""
+"","assets.invitemedia.com","/","optout","1","2010-11-16 00:00:92","Thanks to Jim Brock at PrivacyChoice",""
+"","assets.invitemedia.com","/","uid","0","2010-11-16 00:00:93","Thanks to Jim Brock at PrivacyChoice",""
+"ats.tumri.net","ats.tumri.net","/ats/","optout_session","764694910|-1582286808","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"b.contextweb.com","b.contextweb.com","/","NSC_mhb-ci.dpoufyuxfc.dpn-iuuq","ffffffff09c11c8a45525d5f4f58455e445a4a4229a0","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"bh.contextweb.com","bh.contextweb.com","/","NSC_mhb-ci.dpoufyuxfc.dpn-iuuq","ffffffff09c11c8b45525d5f4f58455e445a4a4229a0","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"","bluestreak.com","/","id","OPT_OUT","2010-11-16 00:00:94","Thanks to Jim Brock at PrivacyChoice",""
+"","bnmla.com","/","optout","1","2010-11-16 00:00:95","Thanks to Jim Brock at PrivacyChoice",""
+"","connect.wunderloop.net","/","WlOptOut","DONT","2010-11-16 00:00:96","Thanks to Jim Brock at PrivacyChoice",""
+"","crwdcntrl.net","/","cc","optout","2010-11-16 00:00:97","Thanks to Jim Brock at PrivacyChoice",""
+"d.adroll.com","d.adroll.com","/","__adroll","213bf6ccdae181d4d0e082bda4239cca","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Coremetrics","data.cmcore.com","/","ID","OPT_OUT","0000-00-00 00:00:00","",""
+"Coremetrics","data.coremetrics.com","/","ID","OPT_OUT","0000-00-00 00:00:00","",""
+"","designbloxlive.com","/","Adroit_id","opt_out","2010-11-16 00:00:98","Thanks to Jim Brock at PrivacyChoice",""
+"","designbloxlive.com","/","Adroit_vars","opt_out","2010-11-16 00:00:99","Thanks to Jim Brock at PrivacyChoice",""
+"DOMAIN","DOMAIN","PATH","NAME","VALUE","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"","domdex.com","/","optout","1","2010-11-16 00:00:100","Thanks to Jim Brock at PrivacyChoice",""
+"","doubleclick.net","/","id","OPT_OUT","2010-11-16 00:00:101","Thanks to Jim Brock at PrivacyChoice",""
+"eyereact.eyereturn.com","eyereact.eyereturn.com","/","ASP.NET_SessionId","ubrjuj55d2ye0bfatogyflie","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"","fwmrm.net","/","opt_out","1","2010-11-16 00:00:102","Thanks to Jim Brock at PrivacyChoice",""
+"","g.adspeed.net","/","ASOptOut","1","2010-11-16 00:00:103","Thanks to Jim Brock at PrivacyChoice",""
+"","interclick.com","/","Opt","out","2010-11-16 00:00:104","Thanks to Jim Brock at PrivacyChoice",""
+"load.exelator.com","load.exelator.com","/load/","DNP","eXelate+OptOut","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"","load.exelator.com","/","DNP","eXelate+OptOut","2010-11-16 00:00:105","Thanks to Jim Brock at PrivacyChoice",""
+"","log.doubleverify.com","/","dv_opt_out","0","2010-11-16 00:00:106","Thanks to Jim Brock at PrivacyChoice",""
+"","lulu.ru4.com","/","ru4.optout","1","2010-11-16 00:00:107","Thanks to Jim Brock at PrivacyChoice",""
+"media.netseer.com","media.netseer.com","/dsatserving2/","JSESSIONID","BD07EE1183367492D2A214CA6D8F1760.colo08","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"media.netseer.com","media.netseer.com","/","BIGipServermedia-w.netseer.com","1315295754.36895.0000","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"nai-optout.invitemedia.com","nai-optout.invitemedia.com","/","sessionid","f3e4a20928fadce77d3e48ef27a043d6","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"network.bazaarvoice.com","network.bazaarvoice.com","/","NoCookie","true","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"","nextag.com","/","ntad","opt-out","2010-11-16 00:00:108","Thanks to Jim Brock at PrivacyChoice",""
+"","nspmotion.com","/","admcol","ip=1200750637&dbs=0&fs=0&uid=1","2010-11-16 00:00:109","Thanks to Jim Brock at PrivacyChoice",""
+"oo.afy11.net","oo.afy11.net","/","ASP.NET_SessionId","ujxilb01vni2qohgwlklyd02","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"","opt.w55c.net","/","optout","1","2010-11-16 00:00:110","Thanks to Jim Brock at PrivacyChoice",""
+"optout.ad.us-ec.adtechus.com","optout.ad.us-ec.adtechus.com","/","OO_TOKEN","1189863829","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"optout.adserver.adtechus.com","optout.adserver.adtechus.com","/","OO_TOKEN","1876866146","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"optout.adserverec.adtechus.com","optout.adserverec.adtechus.com","/","OO_TOKEN","2140162538","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"optout.adserverwc.adtechus.com","optout.adserverwc.adtechus.com","/","OO_TOKEN","119238688","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"optout.adsonar.com","optout.adsonar.com","/","OO_TOKEN","72616499","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"optout.adtech.de","optout.adtech.de","/","OO_TOKEN","2081004351","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"optout.advertising.com","optout.advertising.com","/","OO_TOKEN","1380537895","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"optout.crwdcntrl.net","optout.crwdcntrl.net","/optout/","naiToken","611388117","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"optout.glb.adtechus.com","optout.glb.adtechus.com","/","OO_TOKEN","1530933632","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"optout.ib-ibi.com","optout.ib-ibi.com","/","ib-ibi.com-OptOut","IsOptOut=true","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"optout.mookie1.com","optout.mookie1.com","/","NSC_pqupvu_qppm_iuuq","ffffffff0941323f45525d5f4f58455e445a4a423660","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"optout.mookie1.decdna.net","optout.mookie1.decdna.net","/","NSC_pqupvu_efdeob_qppm_iuuq","ffffffff0941322045525d5f4f58455e445a4a423660","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"optout.mookie1.decideinteractive.com","optout.mookie1.decideinteractive.com","/","NSC_pqupvu_efdeobjou_qppm_iuuq","ffffffff0941322345525d5f4f58455e445a4a423660","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"optout.mookie1.dtfssearch.com","optout.mookie1.dtfssearch.com","/","NSC_pqupvu_eugttfbsdi_qppm_iuuq","ffffffff0941322b45525d5f4f58455e445a4a423660","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"optout.mookie1.pm14.com","optout.mookie1.pm14.com","/","NSC_pqupvu_qn14_qppm_iuuq","ffffffff0941322845525d5f4f58455e445a4a423660","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"optout.pictela.net","optout.pictela.net","/","OO_TOKEN","1695245073","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"optout.tacoda.at.atwola.com","optout.tacoda.at.atwola.com","/","OO_TOKEN","90687120","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Opinmind","optout.yieldoptimizer.com","/","opinmind_persist","488444680.36895.0000","0000-00-00 00:00:00","",""
+"p.brilig.com","p.brilig.com","/contact/","BriligToken","12345","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"","p.brilig.com","/","BriligContact","OPT_OUT","2010-11-16 00:00:112","Thanks to Jim Brock at PrivacyChoice",""
+"privacy.tidaltv.com","privacy.tidaltv.com","/","ARPT","RVJRLXS192.168.220.244CKOLO","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"","qjex.net","/","optout","1","2010-11-16 00:00:113","Thanks to Jim Brock at PrivacyChoice",""
+"recs.richrelevance.com","recs.richrelevance.com","/","m","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"recs.richrelevance.com","recs.richrelevance.com","/","n","1","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"recs.richrelevance.com","recs.richrelevance.com","/","s","b22638614.22638614","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"richrelevance","recs.richrelevance.com","/","prooc","true","0000-00-00 00:00:00","",""
+"","rlcdn.com","/","optout","Opted+Out+of+RapLeaf+Cookies%2C+to+re-enable+simply+delete+this+cookie.","2010-11-16 00:00:114","Thanks to Jim Brock at PrivacyChoice",""
+"Adjuggler","rotator.adjuggler.com","/","aj_optout","optout","0000-00-00 00:00:00","",""
+"","search.netseer.com","/","netseer_optout","optout","2010-11-16 00:00:115","Thanks to Jim Brock at PrivacyChoice",""
+"","spongecell.com","/","cookie_opt_out","1","2010-11-16 00:00:116","Thanks to Jim Brock at PrivacyChoice",""
+"","spotexchange.com","/","opt_out-0","b3B0X291dAlvcHRfb3V0CWNvb2tpZV9kb21haW4Jd3d3LnNwb3R4Y2hhbmdlLmNvbQljcmVhdGVkX2RhdGUJMTI0MDAwMzQ5Nwltb2RpZmllZF9kYXRlCTEyNDAwMDM0OTcK","2010-11-16 00:00:117","Thanks to Jim Brock at PrivacyChoice",""
+"statse.webtrendslive.com","statse.webtrendslive.com","/","ACOOKIE","C8ctADcyLjIxMy4xMC4yNDEtMTg3NTE0MzkyMC4zMDI3NDQ4MAAAAAAAAAABAAAAm/IAAMJE9lDBRPZQAQAAAK1OAADCRPZQwUT2UAAAAAA-","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"t.tellapart.com","t.tellapart.com","/","AWSELB","61F9BF7902E01E82ECA0FF8351BB3AA3EE55F0C80E320361A70C44D1907F0992F33C5D971AD3C7D0835EDAEED5ABFDDFA59FD2E581646B57DF74F52EE1EF93CEB6DAA9C996","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"","tealium.com","/","SM_OPTOUT","1","2010-11-16 00:00:118","Thanks to Jim Brock at PrivacyChoice",""
+"","tracking.intermundomedia.com","/","ID","OPT_OUT","2010-11-16 00:00:119","Thanks to Jim Brock at PrivacyChoice",""
+"","tracking.quisma.com","/","tracker_optout","1","2010-11-16 00:00:120","Thanks to Jim Brock at PrivacyChoice",""
+"","tracking.reedge.com","/","REED_optout","all%3DMQ%3D%3D","2010-11-16 00:00:121","Thanks to Jim Brock at PrivacyChoice",""
+"","tribalfusion.com","/","ANON_ID","OptOut","2010-11-16 00:00:122","Thanks to Jim Brock at PrivacyChoice",""
+"us.intellitxt.com","us.intellitxt.com","/","JSESSIONID","DFF4D8DFD9041211605300C50F172486","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"","vitamine.networldmedia.net","/","OPTOUT","1","2010-11-16 00:00:123","Thanks to Jim Brock at PrivacyChoice",""
+"","www.acxiom.com","/","CP","null*","2010-11-16 00:00:124","Thanks to Jim Brock at PrivacyChoice",""
+"www.adblade.com","www.adblade.com","/","PHPSESSID","b2f1608bbc47b2b2d74fb9dc84e256bd","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Burst Media","www.burstnet.com","/","BOO","opt-out","0000-00-00 00:00:00","",""
+"www.choicestream.com","www.choicestream.com","/","PHPSESSID","5kslki0v32gmrbbfc27vc7u2n0","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Flashtalking","www.flashtalking.com","/","optout","true","0000-00-00 00:00:00","",""
+"www.google.com","www.google.com","/settings/ads/aboutads/","aboutads_sess-470593740","ACi0TCg3eSF9sLq7fku5VRbKGZ6XjymrPGIh5req5nxryK2UIIi7G60dOIepJoYcqODXgqfxV-LN","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"www.google.com","www.google.com","/settings/ads/aboutads/","aboutads_sess-1747122557","ACi0TCgY6n1inpl8L7WzmZeI8HTntGEo07qEa7ZgXOyiF1UCvWD5wau5ZtcS0gbeEZ7cVib-fqUi","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"www.google.com","www.google.com","/settings/ads/aboutads/","aboutads_sess-2069070423","ACi0TCiAsZin-8xDT0lKL7VFjiKELsYYy55yIPxy54ldVfFNW0JtSFeKTLQvO7SpTE1vNYAVU4TY","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"www.google.com","www.google.com","/settings/ads/aboutads/","aboutads_sess-1794297966","ACi0TChhO-MXXZPvyk9Iest-fK9QivPoFqeKUlpT9QyZp-yT7bT7dTA3NKi1NuU4og7eAHVjFipb","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"www.google.com","www.google.com","/settings/ads/aboutads/","aboutads_sess-1639105068","ACi0TCg61PR3sOFJCSEYbNJ_8aB1HAYYXQTL10X9vEbsIdc7sFrD1mADSBW-rsTYtKu3SeWMlXFg","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"www.google.com","www.google.com","/settings/ads/aboutads/","aboutads_sess1992812461","ACi0TCjUkhZg8E11K6wSHdXjpx-civLYCqo3nJCKJv6NBzTN9bOicXHhLjwMGkJnbfdmtz4HLfcC","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"www.google.com","www.google.com","/settings/ads/aboutads/","aboutads_sess-1440274582","ACi0TCi8TkQkF6HnKbrmQygStD6s4u4OWoDW-Ib2NUzibY7H0lzHEBFhxVCXycJhpOujEjHE4jH0","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"","www.inadcoads.com","/","_iad_vsid","99999999-9999-9999-9999-999999999999","2010-11-16 00:00:125","Thanks to Jim Brock at PrivacyChoice",""
+"www.mathtag.com","www.mathtag.com","/","PHPSESSID","fmkhbi9l8q2dhsae0ogdo2t781","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"www.mmismm.com","www.mmismm.com","/","PHPSESSID","nhdkns71g47687hts4i25ms9l7","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"www.pulse360.com","www.pulse360.com","/","kanoodle-session-ui","622a27425706553940b645c17676e2f7","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
+"Tatto Media","www.tattomedia.com","/assets/tattomedia/optout/","na_optout","1","0000-00-00 00:00:00","",""
+"Tealium","www.tealium.com","/","SM_OPTOUT","1","0000-00-00 00:00:00","",""
+"www2.glam.com","www2.glam.com","/","PHPSESSID","r93pf9eklkfsdhtpvbc0ueecp3","2013-01-16 06:46:57","http://www.networkadvertising.org/choices/","Import from NAI opt-out tool."
